@@ -1,0 +1,1154 @@
+<div class="sequence">
+<a name="locus_NC-011646.1"></a><div class="localnav"><ul class="locals"><li><a href="#comment_NC-011646.1" title="Jump to the comment section of this record">Comment</a></li><li><a href="#feature_NC-011646.1" title="Jump to the feature table of this record">Features</a></li><li><a href="#sequence_NC-011646.1" title="Jump to the sequence of this record">Sequence</a></li></ul></div>
+<pre class="genbank">LOCUS       NC_011646              34952 bp    DNA     circular VRL 10-DEC-2008
+DEFINITION  Abalone shriveling syndrome-associated virus, complete genome.
+ACCESSION   NC_011646
+VERSION     NC_011646.1
+DBLINK      BioProject: <a href="/bioproject/PRJNA33141">PRJNA33141</a>
+KEYWORDS    RefSeq.
+SOURCE      Abalone shriveling syndrome-associated virus
+  ORGANISM  <a href="/Taxonomy/Browser/wwwtax.cgi?id=491893">Abalone shriveling syndrome-associated virus</a>
+            Viruses; dsDNA viruses, no RNA stage; unclassified dsDNA viruses.
+REFERENCE   1  (bases 1 to 34952)
+  AUTHORS   Zhuang,J., Cai,G.-Q., Wu,Z.-J. and Xie,L.-H.
+  TITLE     A novel marine virus in abalone
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 34952)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2008) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 34952)
+  AUTHORS   Zhuang,J., Cai,G.-Q., Wu,Z.-J. and Xie,L.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) Fujian Agriculture and Forestry University,
+            Institute of Plant Virology, Fuzhou, Fujian 350002, P.R. China
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 34952)
+  AUTHORS   Cai,G.-Q., Zhuang,J., Xie,L.-H. and Wu,Z.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2007) Life Science, Fujian Agriculture &amp; Forestry
+            University, Jinshan New Village, Gulou District, Fuzhou, Fujian
+            350002, China
+<a name="comment_NC-011646.1"></a>COMMENT     PROVISIONAL <a href="/RefSeq/">REFSEQ</a>: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from <a href="/nuccore/EU350361">EU350361</a>.
+            COMPLETENESS: full length.
+<a name="feature_NC-011646.1"></a>FEATURES             Location/Qualifiers
+<span id="feature_NC-011646.1_source_0" class="feature"><script type="text/javascript">if (typeof(oData) == "undefined") oData = []; oData.push ({gi:"NC-011646.1",acc:"NC_011646",features: {}});if (!oData[oData.length - 1].features["source"]) oData[oData.length - 1].features["source"] = [];oData[oData.length - 1].features["source"].push([[1, 34952]]);</script>     source          1..34952
+                     /organism="Abalone shriveling syndrome-associated virus"
+                     /mol_type="genomic DNA"
+                     /isolation_source="individual with muscular atrophy
+                     syndrome"
+                     /host="Haliotis diversicolor aquatilis"
+                     /db_xref="taxon:<a href="/Taxonomy/Browser/wwwtax.cgi?id=491893">491893</a>"
+                     /country="China: Fuzhou, Fujian"
+                     /collection_date="2005"
+</span><span id="feature_NC-011646.1_gene_0" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[363, 1]]);</script>     <a href="/nuccore/NC_011646.1?from=1&amp;to=363&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="0" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(1..363)
+                     /locus_tag="ASSaV_gp01"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070085">7070085</a>"
+</span><span id="feature_NC-011646.1_CDS_0" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[363, 1]]);</script>     <a href="/nuccore/NC_011646.1?from=1&amp;to=363&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="0" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(1..363)
+                     /locus_tag="ASSaV_gp01"
+                     /note="ORF1; involved in repair of double-stranded breaks
+                     introduced during genome segregation or DNA replication"
+                     /codon_start=1
+                     /product="endonuclease"
+                     /protein_id="<a href="/protein/216906086">YP_002333618.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070085">7070085</a>"
+                     /translation="MKKFNNKRTRGYDSRAEYRRAIFLRTLQQSRTISKLEQQKKFNL
+                     VVNGQHICAYIADFVYVDSNGSTVVEDVKGIVTDVYRLKKKLMHACHGININEVRCDE
+                     VTKQLTQPKTTNNTKLVK"
+</span><span id="feature_NC-011646.1_gene_1" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[439, 1962]]);</script>     <a href="/nuccore/NC_011646.1?from=439&amp;to=1962&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="1" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            439..1962
+                     /locus_tag="ASSaV_gp02"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070084">7070084</a>"
+</span><span id="feature_NC-011646.1_CDS_1" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[439, 1962]]);</script>     <a href="/nuccore/NC_011646.1?from=439&amp;to=1962&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="1" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             439..1962
+                     /locus_tag="ASSaV_gp02"
+                     /note="ORF2; DNA large pacase packaging ATP-binding
+                     nuclease"
+                     /codon_start=1
+                     /product="terminase"
+                     /protein_id="<a href="/protein/216906085">YP_002333619.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070084">7070084</a>"
+                     /translation="MRKLSLLERRCLKFTQTELHGNTQVAYFVGKYALDPQGFIENEL
+                     KMPLFDWQLEIVDYIAKFFRKNSDEKHFVCAIAVSGGNGTGKTKLSKALNIWRFCCHP
+                     GSRQFILTNSERQTKRTGFTMLVRRISKLLSCIAALESSAYYYSPAVADKPEVRTNDM
+                     WDVTYLLQSSTEAALSGLHHPMMTFSFDESTYFNDHVWQALENMWTQGQVLCFCTGNP
+                     SHDNNNYFARLFNKSLHKKDSLWLTRCVSLLELPLKYRNDARARYIEEHYGKTHPRYI
+                     ASVLGQFPKKNTCNPFDITAISEAMEREVREEFIHHPVIMGIDVSISANNGSASAICV
+                     REGTAVRVLREYRCHYTEFRIKLLELLQEIKPTIVVVDANGVGFGLYEELHRTLPETS
+                     NVRVYGVRAHAEAFLKSEYADKMSELAKKSSEWFNNELVSIPKNYQFLNALTSLSFAD
+                     ASGKIKLIGKTDAKKKVDLSMDMADAFFLTFLDGVEMDWAQGVKDNYLDQSEVYYGV"
+</span><span id="feature_NC-011646.1_gene_2" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[1952, 3460]]);</script>     <a href="/nuccore/NC_011646.1?from=1952&amp;to=3460&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="2" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            1952..3460
+                     /locus_tag="ASSaV_gp03"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070083">7070083</a>"
+</span><span id="feature_NC-011646.1_CDS_2" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[1952, 3460]]);</script>     <a href="/nuccore/NC_011646.1?from=1952&amp;to=3460&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="2" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             1952..3460
+                     /locus_tag="ASSaV_gp03"
+                     /note="ORF3"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906084">YP_002333620.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070083">7070083</a>"
+                     /translation="MEYEFIDYLLKCVSYSYQFYNKGWMLYSLLSTNNDCLFNIRSRF
+                     INTVSSDILHLSSYLGNVANSYCNWTDNTVAVISNVATVNAYQYLWGREGRNVYINLD
+                     DGYHAGTPDITTFEYKVQKAISADKKLNRAIKKALKDGIDYGVGYLVDIDGKYFSPHP
+                     LRVFKHDGDHDDLFVLERWSDEKQKYILHIIGSGDKYKKKLGINSSKKYFMVSLQEGK
+                     NGKRYEIGKDFFASQPLIHEFKPMSFETEDGIATGSGIVAVNAAINLQKMSFSAVYAQ
+                     EEELRPAMLVRQDLLRKRKLSIAPGSIHTFNQYNTNSGEPIRSMIPARGGSAASFVEY
+                     WVGRVRQAYFPENASFTGVGQTTAAEANQIATTSTNSLANLKTSFHDWFLTPILETFI
+                     DRMPKDSVEKDIIKNSTIRYIGQHTADLLNADIQNLRVLAEAYAVLKPDNPTIGLMSN
+                     GVGIMQRIARDVLPNGTVLTNQEYAEAMNILLQQQQALGEPAAEEAAVQEQQ"
+</span><span id="feature_NC-011646.1_gene_3" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[3494, 3937]]);</script>     <a href="/nuccore/NC_011646.1?from=3494&amp;to=3937&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="3" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            3494..3937
+                     /locus_tag="ASSaV_gp04"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070082">7070082</a>"
+</span><span id="feature_NC-011646.1_CDS_3" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[3494, 3937]]);</script>     <a href="/nuccore/NC_011646.1?from=3494&amp;to=3937&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="3" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             3494..3937
+                     /locus_tag="ASSaV_gp04"
+                     /note="ORF4"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906083">YP_002333621.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070082">7070082</a>"
+                     /translation="MTNLILPTDFIEIFSTAEDCRKKASSPEDIFYLEDFLAMRASVK
+                     NDFHEILPHLMTLTPREDFIFLKTQFAVFHVEHMKPKKLEKKVTYFSKTKLGALFWEW
+                     FSQKIRLILIVVAPNNDPRFNPVTIYKSLLVLQDLLDDDTPRVVV"
+</span><span id="feature_NC-011646.1_gene_4" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[3937, 4518]]);</script>     <a href="/nuccore/NC_011646.1?from=3937&amp;to=4518&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="4" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            3937..4518
+                     /locus_tag="ASSaV_gp05"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070081">7070081</a>"
+</span><span id="feature_NC-011646.1_CDS_4" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[3937, 4518]]);</script>     <a href="/nuccore/NC_011646.1?from=3937&amp;to=4518&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="4" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             3937..4518
+                     /locus_tag="ASSaV_gp05"
+                     /note="ORF5"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906082">YP_002333622.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070081">7070081</a>"
+                     /translation="MSVLTPIARMIRPNAQRASYYQTGRLKGAHALLALKNSFLINSS
+                     LFSYMKSLKKCDKKIALLISKSVACSFLKLEQETSGLCINPDGQEHIKCSIIYLPVNS
+                     MNIDACGEVLKEVVRIFPDCEIIPATNITTDTNILLSFENLKILLKTFNIPSNDKEIF
+                     LGLVGDLETSSGFRELANYVLDNIQKKRKSSFG"
+</span><span id="feature_NC-011646.1_gene_5" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[6063, 4621]]);</script>     <a href="/nuccore/NC_011646.1?from=4621&amp;to=6063&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="5" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(4621..6063)
+                     /locus_tag="ASSaV_gp06"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070080">7070080</a>"
+</span><span id="feature_NC-011646.1_CDS_5" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[6063, 4621]]);</script>     <a href="/nuccore/NC_011646.1?from=4621&amp;to=6063&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="5" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(4621..6063)
+                     /locus_tag="ASSaV_gp06"
+                     /note="ORF6"
+                     /codon_start=1
+                     /product="helicase"
+                     /protein_id="<a href="/protein/216906081">YP_002333623.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070080">7070080</a>"
+                     /translation="MYKFSEEALIRALFNDQAKVVFFKDSFPEYVFTDPLCQHIYTKL
+                     VDEARNKKQVKLTDLEYSLPFDFQSEKREFLIEKCRFLTKKNSFDLVTFEELCHTIVL
+                     RLTEVHMKNYSEDIRDKFNFDRNHQPTPLSIDDAARKSLKRFTATVKQLDYFSSFIFS
+                     KKPNLYTSEGLDEIREALNENHCISTKLHNLDRTINGLRLGKLVTLGARTSMGKTSLA
+                     LKIMNNLSKELHIKNCKKNSTTSVAYLSYEMHSEELQGRVLSFESKVPVHRIFSPDCT
+                     TCDMIEIENAQKVLCELPQHIKFLEDRTLDHLVAEIEDLQEKHNCKYFFVDHIHLLSL
+                     TGDISNYRVHEMSVISGRLKTLTLKNNITIVCLAQLSRPAKSNTASFAEEELRGPSMN
+                     DIRDSGSIEQDSDIVLMLHRPERFILKRRPKEDSSSFSKWQEEYSRSRGLAKLYVEKN
+                     RNGSCGEVNLFFNHETTDFTDLAGYDHTIF"
+</span><span id="feature_NC-011646.1_gene_6" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[6872, 7573]]);</script>     <a href="/nuccore/NC_011646.1?from=6872&amp;to=7573&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="6" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            6872..7573
+                     /locus_tag="ASSaV_gp07"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070079">7070079</a>"
+</span><span id="feature_NC-011646.1_CDS_6" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[6872, 7573]]);</script>     <a href="/nuccore/NC_011646.1?from=6872&amp;to=7573&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="6" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             6872..7573
+                     /locus_tag="ASSaV_gp07"
+                     /note="ORF7"
+                     /codon_start=1
+                     /product="recombinase"
+                     /protein_id="<a href="/protein/216906079">YP_002333624.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070079">7070079</a>"
+                     /translation="MSQLDTPTARQPVLYGYARVSKQKQNLTTQIRLLNKAGCKQIFY
+                     EKISGAKDKKVELGKLISVLQKGDVVVVAHLDRLGRNLVTTLRTIEQINNKGASIKAL
+                     DFNLDSGTAMGDLMIKFMAFFAELERYFAKMRSEERLANLTKKQRSSLGRKAVLDKKT
+                     IKKYYQQYLDRKTTVAAITEKLGITRASFYNALKRYNIKTYVQSHLDGDINDPSFKYG
+                     KLHFKRVRGKVQCKY"
+</span><span id="feature_NC-011646.1_gene_7" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[7353, 7000]]);</script>     <a href="/nuccore/NC_011646.1?from=7000&amp;to=7353&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="7" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(7000..7353)
+                     /locus_tag="ASSaV_gp08"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070077">7070077</a>"
+</span><span id="feature_NC-011646.1_CDS_7" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[7353, 7000]]);</script>     <a href="/nuccore/NC_011646.1?from=7000&amp;to=7353&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="7" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(7000..7353)
+                     /locus_tag="ASSaV_gp08"
+                     /note="ORF8"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906080">YP_002333625.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070077">7070077</a>"
+                     /translation="MVFLSKTAFLPKDDRCFFVKFASRSSDLILAKYLSSSAKKAMNL
+                     IIKSPIAVPLSRLKSKALMLAPLLLICSMVLKVVTRLRPNRSKWATTTTSPFCRTDIN
+                     FPSSTFLSFAPEIFS"
+</span><span id="feature_NC-011646.1_gene_8" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[7491, 8177]]);</script>     <a href="/nuccore/NC_011646.1?from=7491&amp;to=8177&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="8" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            7491..8177
+                     /locus_tag="ASSaV_gp09"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070078">7070078</a>"
+</span><span id="feature_NC-011646.1_CDS_8" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[7491, 8177]]);</script>     <a href="/nuccore/NC_011646.1?from=7491&amp;to=8177&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="8" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             7491..8177
+                     /locus_tag="ASSaV_gp09"
+                     /note="ORF9"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906078">YP_002333626.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070078">7070078</a>"
+                     /translation="METLMTQASSMANYILKESEEKFSVSTDSEQFYLVTALINTVAG
+                     LKEEDQPSYRNIQNIIQQIITENLYLDGTVCALVSYGRDRNTNRKTYVVHENTYKKVV
+                     SLQKEGIFIFTHPIEISQLQLIEEGKIIRDVASLLAYPVPPKEIKKLTDVGGIDVRVL
+                     KNQVCINFQFYYLGSILGMVGRQLDEKGAPKLIRSRFKEPFSPWTSTTTHQIEMLKKT
+                     CLKNVLKTLV"
+</span><span id="feature_NC-011646.1_gene_9" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[9048, 10676]]);</script>     <a href="/nuccore/NC_011646.1?from=9048&amp;to=10676&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="9" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            9048..10676
+                     /locus_tag="ASSaV_gp10"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070076">7070076</a>"
+</span><span id="feature_NC-011646.1_CDS_9" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[9048, 10676]]);</script>     <a href="/nuccore/NC_011646.1?from=9048&amp;to=10676&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="9" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             9048..10676
+                     /locus_tag="ASSaV_gp10"
+                     /note="ORF10; nucleotidyltransferase; synthesizes
+                     oligoribonucleotide primers required for DNA replication
+                     on the lagging strand of the replication fork"
+                     /codon_start=1
+                     /product="primase"
+                     /protein_id="<a href="/protein/216906077">YP_002333627.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070076">7070076</a>"
+                     /translation="MSSFMEIKQKVKISDVVGGHVRLTERSGRLFGLCPFHEEKTPSF
+                     IVSDELGKFYCFGCNAHGDVFDFLSKLLGISDHEALEYLAKDTGTIIDSKPDTKTMFF
+                     AKVAEIFMVSLLDNVEALNYLKKRGVDQTAIKLWSIGFFSLEKLKEFTDNLTSEARES
+                     FSDFVQLTALNQLANRIIFPIHDKTGAIIAFSGRNLDIETQTPKYINTKNTESFKKGS
+                     CFYGLHRCKQTLKKDSIYVVEGFFDVILMDTLGLKAIATMGTAITDDHVRILEDRQQK
+                     FVFLFDGDSAGQSAIFKLFSKRMIVKYSLFSCYWAVPLSEEEDAASLALQDQAKFRDI
+                     LAQPLDMYEFIYNYVYGTELPENPTRTDHMRLESMLSLIAQKIVRNSMRERFIDFYRG
+                     SHKHEKRPESSPTTGRENFFHILYLALSRHQKACIKRLPEILPLLEEFVFRRKITPAQ
+                     IFGQIKAGALISHALDSLNEILNKFMIDRWQQKIKPTDDSPDLLIDWVLLEDELILCS
+                     RGSEFKTEFFQTVSKIQDHEELMRKIARHLIKVT"
+</span><span id="feature_NC-011646.1_gene_10" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[11077, 10673]]);</script>     <a href="/nuccore/NC_011646.1?from=10673&amp;to=11077&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="10" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(10673..11077)
+                     /locus_tag="ASSaV_gp11"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070075">7070075</a>"
+</span><span id="feature_NC-011646.1_CDS_10" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[11077, 10673]]);</script>     <a href="/nuccore/NC_011646.1?from=10673&amp;to=11077&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="10" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(10673..11077)
+                     /locus_tag="ASSaV_gp11"
+                     /note="ORF11"
+                     /codon_start=1
+                     /product="single-stranded DNA binding protein"
+                     /protein_id="<a href="/protein/216906076">YP_002333628.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070075">7070075</a>"
+                     /translation="MKNSINKTILVGRTGKDPVIRTMNNGSKVANFPLATSESWIDKT
+                     KNERREKTEWHNIVIYGDGLASIAEKFVRKGSRLYIEGAIQTRKWVDVENNQRTTMEI
+                     VLQGFNSTLVILNKVTSEDGNNAAEDDDEVPF"
+</span><span id="feature_NC-011646.1_gene_11" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[11212, 11988]]);</script>     <a href="/nuccore/NC_011646.1?from=11212&amp;to=11988&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="11" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            11212..11988
+                     /locus_tag="ASSaV_gp12"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070074">7070074</a>"
+</span><span id="feature_NC-011646.1_CDS_11" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[11212, 11988]]);</script>     <a href="/nuccore/NC_011646.1?from=11212&amp;to=11988&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="11" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             11212..11988
+                     /locus_tag="ASSaV_gp12"
+                     /note="ORF12"
+                     /codon_start=1
+                     /product="exonuclease"
+                     /protein_id="<a href="/protein/216906075">YP_002333629.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070074">7070074</a>"
+                     /translation="MIKVSASTIRLALANQSGLVAKLRGYQPPMTDSMKLGSLAHATI
+                     LEPEKVNDFHFYSGTRSGKAYKALAALGDDKMILPAQMHILTENMKNALHEYIKDMNW
+                     PQTNILLQDDTFREKHLEYHEDDLHHRGVIDAYSKDGVLIDYKTTADAGITVKTWEAS
+                     CARLYYHIQMAYYGKLLEHCENIKVKDYIHVVQSTAEPYLVFVFKFSDSTIEFALQEI
+                     QQGISTLRYIHNTLNKINTIELDPLIRDDYLETKRAFTWF"
+</span><span id="feature_NC-011646.1_gene_12" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[16011, 12427]]);</script>     <a href="/nuccore/NC_011646.1?from=12427&amp;to=16011&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="12" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(12427..16011)
+                     /locus_tag="ASSaV_gp13"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070073">7070073</a>"
+</span><span id="feature_NC-011646.1_CDS_12" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[16011, 12427]]);</script>     <a href="/nuccore/NC_011646.1?from=12427&amp;to=16011&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="12" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(12427..16011)
+                     /locus_tag="ASSaV_gp13"
+                     /note="ORF13"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906074">YP_002333630.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070073">7070073</a>"
+                     /translation="MDGEFNISLTNNKIAQDNILRRLAIQQVNNERKLLSVGIEVPEE
+                     VYLLGNIHPERLAAVDTKVDEYNRLIAGTSEPLMQSSAEIRAQILATSQIDPRFADQS
+                     FLTRAITNAGPMLLSHAMNHPLQFTISILGSTAVGIGAAAGLTALAVPAAAASFITSA
+                     GFIGYNVVESVLKQKNSNERGLIKVFELDPVDLKETALSAGADNLAIELLLKGVGIGV
+                     PFALRKVGGVYQWSRSGARSIVDGMGAAERAEVISSIRSTPVSTAFDGAESELLVKNY
+                     ANARFRGDDAAAEEIAKTPSGYVTNTENFNNMVKAEAPKNTGITANTQLEAASNLIDY
+                     TQAERIGFDDYINTTRGSNGEVSGASTYNRLVGDGASTDGGFLQSINRMASQPANSGA
+                     QGQLAGELAEQQFRHSYDQVFEHVVSQPRGEFIQSSLATAIKRLWQAEVDAPPPSTAI
+                     SAEQIFSFKTEEKIRAAANYNKKVAELSTWETLLRAGTMTGKENNLFSGLDSLGKIRN
+                     VYNATMELVESQSVQPVVSVLEEAQLSLAKLLKVDEGVFQLPAHADIVDGVINPTGKN
+                     RYNSKSAIFRQAINKIKSQGIEKGLYSKLDDGWFPNMWDKERIRSVGQAEFIEEMIGL
+                     VDESRMRQAVTASGNIYKNSTDSLGKIYNNIAADQRRVKSDASGTLRTLRGDRLLFFK
+                     DGASWYAAHDLFGSEDVPSAFSALRNFAINASDDIVQASFGVHSLEDINTFTNVLHNG
+                     LGNMAKAQGLSIDSGKLANLELQFKEAMLLHNGYVLPGKLGRLLGFLKNTTLKGMTAG
+                     AFVPAAVLDPLGNLPIAGTMFGLDRLTSYRSAKTILKKMTKAERNECFFFLKTSINAL
+                     TTEVNEMLNGPGKPVFKSLGRKIFNSSHDLTRKISNNNEVMGAALFSRATHLNKSTPW
+                     TKLSMDYRAFLERFGINRADWDSYRKKKSVTVGGNIDLMSARYLINQGDRSAVVNRFA
+                     VAEVGSALFAAPKNTRLGRTAKVRTGATVASIVQSDLVEPFANVAYNNILGLGNLQIE
+                     HLYAGRFGQFVINSAHVLFLGLLAVEVKKLLRGEKPAVDSRSLALAMMYAGFSGPTGD
+                     ALIEQFMFSSGGINLWGFELPVAAGAKLIGKKRNVFLALHRTMRAKLPFNQTLAANIL
+                     QKYTTDILFALLDPEGAKAYEDRLQKDFIEGKTTALSKWSRSPVLARR"
+</span><span id="feature_NC-011646.1_gene_13" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[16754, 16173]]);</script>     <a href="/nuccore/NC_011646.1?from=16173&amp;to=16754&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="13" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(16173..16754)
+                     /locus_tag="ASSaV_gp14"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070072">7070072</a>"
+</span><span id="feature_NC-011646.1_CDS_13" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[16754, 16173]]);</script>     <a href="/nuccore/NC_011646.1?from=16173&amp;to=16754&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="13" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(16173..16754)
+                     /locus_tag="ASSaV_gp14"
+                     /note="ORF14"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906073">YP_002333631.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070072">7070072</a>"
+                     /translation="MSRSMTVGQLTPDITKSTATGVATINSAYAFAPIVGDAMAQQYR
+                     SMYAVNAGDAKRFLDRTFKDGYSAPRVPKNKNPNNTISNALTSNTQTLPDAISSLGLE
+                     GVRELFGTKDIYINIAGNPIPLTQSFFKAEKFYYFTSQIVPVNISPNSWKLLYSGSTL
+                     TGFVSDIAGNELIVKKSDYQRMSSIIAKQRGIN"
+</span><span id="feature_NC-011646.1_gene_14" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[17962, 16754]]);</script>     <a href="/nuccore/NC_011646.1?from=16754&amp;to=17962&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="14" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(16754..17962)
+                     /locus_tag="ASSaV_gp15"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070071">7070071</a>"
+</span><span id="feature_NC-011646.1_CDS_14" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[17962, 16754]]);</script>     <a href="/nuccore/NC_011646.1?from=16754&amp;to=17962&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="14" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(16754..17962)
+                     /locus_tag="ASSaV_gp15"
+                     /note="ORF15"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906072">YP_002333632.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070071">7070071</a>"
+                     /translation="MVDELLNSLANLAGVIGKYDAERKNARLAKFVEDQYLQLDQDIV
+                     ASDLTTENFDKTVNSISNTLRGRIHEQNLSISSSQFDDLTRGVKNSLLKKRQAITDSP
+                     SDSATAAFNSHVVELANQFNKNQISPDVLVGILENDLTNLEQLIPRSKALSIRANATN
+                     DLVKNIIVNNALPVEDIQAMTQEMIDRGILTLADGTRLQSALKQSSEGGAERDINLNR
+                     ALDAAIAGRQPNNLELANPQVALTYDVVKSFRRATPAELNEYIKNAKDPEIASILTER
+                     KNYVEQQIGIDSAQFLIDQNIVRDESINFLDENSIANGMAQATSNYNLARQYGPPTTL
+                     LSKNNTNTLARLAANMDSNEKMQLVNRIKQGSAPQRLSGCCTNICPRKSEAFTAGPAL
+                     LNHIKAMLRH"
+</span><span id="feature_NC-011646.1_gene_15" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[18048, 18410]]);</script>     <a href="/nuccore/NC_011646.1?from=18048&amp;to=18410&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="15" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            18048..18410
+                     /locus_tag="ASSaV_gp16"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070070">7070070</a>"
+</span><span id="feature_NC-011646.1_CDS_15" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[18048, 18410]]);</script>     <a href="/nuccore/NC_011646.1?from=18048&amp;to=18410&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="15" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             18048..18410
+                     /locus_tag="ASSaV_gp16"
+                     /note="ORF16"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906071">YP_002333633.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070070">7070070</a>"
+                     /translation="MALFAFAALASIAAAGFGACRNSRENSRRKVLLRNELVAQEELL
+                     NRERRLRAAGINAFQRRGSTAFDDLDDEFSLRGNSLNANTYSRRVANPGLTDSFADLS
+                     RGVVKAAEFLINRSKLGG"
+</span><span id="feature_NC-011646.1_gene_16" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[19021, 20112]]);</script>     <a href="/nuccore/NC_011646.1?from=19021&amp;to=20112&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="16" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            19021..20112
+                     /locus_tag="ASSaV_gp17"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070069">7070069</a>"
+</span><span id="feature_NC-011646.1_CDS_16" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[19021, 20112]]);</script>     <a href="/nuccore/NC_011646.1?from=19021&amp;to=20112&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="16" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             19021..20112
+                     /locus_tag="ASSaV_gp17"
+                     /note="ORF17"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906069">YP_002333634.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070069">7070069</a>"
+                     /translation="MRALGNALGISSSGFGFSYAAATGVLNQTSNVARVFGYGVGEFG
+                     YREFLVASVQGRYLSFDSAEAGMFTTLLKTYKIDDPANNTSSNISAGNFAILLLFASV
+                     SGEYAILAPQEEFDNADDALANILLYPSQVTRPKELDEFFKLVASIIVPRTVAANNTD
+                     VVVYTTPDVGFGGASAGAGAGGAVVPDPSTANPGDRLVVNSAGNALEYKPEPSIDTAG
+                     ATPASVLQRNADGTFKVADIATSNNLAFQGNNIRVGVAIVDVVTGVVSNYGLDFVTDK
+                     VTMKYSRDTSSDLATATFTTTTSGVTSVILSTAYKTIKPVTYSQSTSSFVATASTISG
+                     TIGARGSVNFIQKASETGSQKIFVFYRLV"
+</span><span id="feature_NC-011646.1_gene_17" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[19661, 19152]]);</script>     <a href="/nuccore/NC_011646.1?from=19152&amp;to=19661&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="17" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(19152..19661)
+                     /locus_tag="ASSaV_gp18"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070067">7070067</a>"
+</span><span id="feature_NC-011646.1_CDS_17" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[19661, 19152]]);</script>     <a href="/nuccore/NC_011646.1?from=19152&amp;to=19661&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="17" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(19152..19661)
+                     /locus_tag="ASSaV_gp18"
+                     /note="ORF18"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906070">YP_002333635.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070067">7070067</a>"
+                     /translation="MLGSGLYSKALPALLTTSLSPGFAVDGSGTTAPPAPAPALAPPK
+                     PTSGVVYTTTSVLLAATVLGTMIEATSLKNSSSSLGLVTWDGYSNILAKASSALSNSS
+                     CGASIAYSPLTLANNNSIAKFPALMLLLVLLAGSSILYVLSRVVNIPASAESNDKYLP
+                     WTEATKNSL"
+</span><span id="feature_NC-011646.1_gene_18" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[22092, 20104]]);</script>     <a href="/nuccore/NC_011646.1?from=20104&amp;to=22092&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="18" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(20104..22092)
+                     /locus_tag="ASSaV_gp19"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070068">7070068</a>"
+</span><span id="feature_NC-011646.1_CDS_18" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[22092, 20104]]);</script>     <a href="/nuccore/NC_011646.1?from=20104&amp;to=22092&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="18" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(20104..22092)
+                     /locus_tag="ASSaV_gp19"
+                     /note="ORF19"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906068">YP_002333636.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070068">7070068</a>"
+                     /translation="MTRHPEFTAENQVVKLTSVDVHFTTETNKFLNPYSADLATGDLL
+                     TTDLDFVKVLDSSIEELKSLSADGILSGLGVTLATGLEVIVSAGAIWSRDHGTKDIAG
+                     STITITPAEQDSEFLSTIVVDKSTGVISTKKFGKPTVDEILICDVKADPDPKFVNSTF
+                     PNSSVQAFYLNRRSQLTDALAKAESLLWIIGYWYDGVSFKKNKTNGFATDGGKLFYGA
+                     RKVMDVPAAGTLPVTVYNHEGAEEVKTTFDANFLKQVWLPTDQAPRALAKDEQVFWYI
+                     YLLSNGTFAMIYPQKVGSDNNIDNRVLDANILAVEQSLLLPVGSDRFSTIIAVLVVNE
+                     DNNNFADTTLFQLRQSLSRGGGTAVIPDAPVVIPVPTATNASEDVLVDSAKHLSTEPG
+                     FENISKKPGIVAYFPDGGYANFSNQPKNTNIYTVVGKLETVFRDSRNQVRYKINIVEA
+                     DTNIPNVSGTFNIGWSSPIDAIYQGELRAILIDGSKSFFDAIAANLPDFTSFKDQLDP
+                     EKMKYMIVLHFGDGMQIQVSTVDLTQPLSISDIDMVKARLKEIPSELKNATTSANFFP
+                     KFKYPLNAVVDGSGALDTIVFRMRDNAVEDYNDVFSQGKRDFYRIHVLSDEDIGSIAG
+                     NVEDLGNKKARGFYYPSYDYNFPVNAGNIFYISFIKLN"
+</span><span id="feature_NC-011646.1_gene_19" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[22207, 22833]]);</script>     <a href="/nuccore/NC_011646.1?from=22207&amp;to=22833&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="19" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            22207..22833
+                     /locus_tag="ASSaV_gp20"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070066">7070066</a>"
+</span><span id="feature_NC-011646.1_CDS_19" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[22207, 22833]]);</script>     <a href="/nuccore/NC_011646.1?from=22207&amp;to=22833&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="19" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             22207..22833
+                     /locus_tag="ASSaV_gp20"
+                     /note="ORF20"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906067">YP_002333637.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070066">7070066</a>"
+                     /translation="MEYLVKRKLLIKYLMSIQRFGKKMNRFVTRMHAMYQRERDKLQF
+                     AKSSKYTNQYNTIDFTPKRIRILTSSPSSFCDFLYPYYEILNSTKNPELHHDNEYQPE
+                     TEASMLDDLRSDCCLKLPMYVNIITVKNYDIKSCRLWMACKLQYSDAWFKTLADTISA
+                     FDEHLVEHKMLFSSEQLIRSRATSFKDVQQSFIDNNPYKNFNWNDSRG"
+</span><span id="feature_NC-011646.1_gene_20" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[22942, 24792]]);</script>     <a href="/nuccore/NC_011646.1?from=22942&amp;to=24792&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="20" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            22942..24792
+                     /locus_tag="ASSaV_gp21"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070065">7070065</a>"
+</span><span id="feature_NC-011646.1_CDS_20" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[22942, 24792]]);</script>     <a href="/nuccore/NC_011646.1?from=22942&amp;to=24792&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="20" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             22942..24792
+                     /locus_tag="ASSaV_gp21"
+                     /note="ORF21"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906065">YP_002333638.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070065">7070065</a>"
+                     /translation="MSYSTKIPQPTALDQTLMTVSSTFYTVAPAPATAKITGLAGDVL
+                     YNNNGQVDLAPTVANDDGVQSLASNGIISGIVPTKTMTITEIELSLGKARVNGKIVDF
+                     AGTALSIPSTNTNELLYIVLDDNATASISTTPPTAQQILITALIADGSSLKHLLYGGQ
+                     NLDQGRANFDLVTQEIGLVSNGFGFSFGADKFNSFGGVLTGLGRSFVLPKKEGVALDI
+                     FDDSSYLRELSTLTVDDFKFFKPVSGSEQAISGSAYVIWYVFANVRSGDVFSLVLPQI
+                     TYTTKPTFSDVLLGFANSTFPKLINGFAPVAALIVAGNITALTDIEIHPLARKRAGVA
+                     NRATILLPRADELTGDPNTAVLGIRNGQYEWRQSINQLPSDSDGVIATNNGLLFTRHF
+                     SGAVASGDYYYAVSGKIPITDPRNGGGLGNIVETNIPSLDKTKTTYYSFLSGLPSRGS
+                     LEVTNRYVGFATDYASPVFYFKQSLDPHLGTKNAQYVLEVEFFFKYQNISSSQPYTIT
+                     NFFQKIILKAQKKNSQQIPLDEPLFNHFYGVYSYDNGSNNAVFTSDLRGIQPSTASKI
+                     AAASTFTIARNYSVNELEHSSINIQGNNVSMDFLKANILNGYCIYRFYKR"
+</span><span id="feature_NC-011646.1_gene_21" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[24047, 23700]]);</script>     <a href="/nuccore/NC_011646.1?from=23700&amp;to=24047&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="21" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(23700..24047)
+                     /locus_tag="ASSaV_gp22"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070063">7070063</a>"
+</span><span id="feature_NC-011646.1_CDS_21" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[24047, 23700]]);</script>     <a href="/nuccore/NC_011646.1?from=23700&amp;to=24047&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="21" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(23700..24047)
+                     /locus_tag="ASSaV_gp22"
+                     /note="ORF22"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906066">YP_002333639.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070063">7070063</a>"
+                     /translation="MLCLHSYCPFLMPNTAVFGSPVSSSALGRRIVALLATPARFRAS
+                     GWISISVNAVILPATINAATGAKPLISLGKVLLAKPNKTSEKVGLVVYVICGSTSENT
+                     SPDLTLAKTYHIT"
+</span><span id="feature_NC-011646.1_gene_22" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[26462, 24795]]);</script>     <a href="/nuccore/NC_011646.1?from=24795&amp;to=26462&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="22" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(24795..26462)
+                     /locus_tag="ASSaV_gp23"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070064">7070064</a>"
+</span><span id="feature_NC-011646.1_CDS_22" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[26462, 24795]]);</script>     <a href="/nuccore/NC_011646.1?from=24795&amp;to=26462&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="22" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(24795..26462)
+                     /locus_tag="ASSaV_gp23"
+                     /note="ORF23"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906064">YP_002333640.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070064">7070064</a>"
+                     /translation="MVEFSKIKSDLGSVAYIEDSADLNKVPLSAVDAGGFFYWKAANN
+                     MTPELSSADIGKAYGITTVDASGAVTFGGVDAFLLDDATASIINQAGIIEPPTLSITG
+                     TNTINVGPFKAVFFDQPAGAVGNVRRVVDSPVQQTITINAVGSSNQDVTYLKFLPSGS
+                     FAQETDDPTADRIIEDNYIVRILHPNGGKIVGLSPVSTVYSNPQQNLQQYSSRIGIDG
+                     NDILFSISNNSLRQTGANARIFGYNIADGSGTGNRSLRTIAVEDITADYYSFDSTEQT
+                     TFSDLRRTYKLDDPAAGTSSALANFGIIAVYILASGSYYYLAPQKNYSTAALARSDLL
+                     FYLTGTVVPDFLSSSFAALLGAIVVPATVTDANISTVLTTTISNISLASSGGGVQTLT
+                     IDPSTGTNDDVVGTNGTNFILRKENAFNVTGGNEGDVLVKRGTSFAVEPIANQGVPRF
+                     NLGTDRGGFVKLDVSNGAIVSSNGDIASDFSSAIIRQVNDAYYISLISISTTKIPVWI
+                     SSYVLNTDGNMMPVTPTADISIDFIVPVVLTPAQPEFLLRYILVNKS"
+</span><span id="feature_NC-011646.1_gene_23" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[29380, 26732]]);</script>     <a href="/nuccore/NC_011646.1?from=26732&amp;to=29380&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="23" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(26732..29380)
+                     /locus_tag="ASSaV_gp24"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070062">7070062</a>"
+</span><span id="feature_NC-011646.1_CDS_23" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[29380, 26732]]);</script>     <a href="/nuccore/NC_011646.1?from=26732&amp;to=29380&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="23" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(26732..29380)
+                     /locus_tag="ASSaV_gp24"
+                     /note="ORF25"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906056">YP_002333641.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070062">7070062</a>"
+                     /translation="MTIVATTPPRNEIKGDGNSIYTFTFKAFVQKPSAGGSSDIYSVR
+                     VFLRDGLTGDPIIQIQNTDYTVKNLQAETGQIEFINKTIPATQYVIIESELPYTQEID
+                     FPTNAAVAPTNVQSAVDRLAMAIKQLEDLVSTKLGFPYPPAITDLQINVDHNIVKDAP
+                     VFFEQNPSKPTEFTLKAGDFTIAELKVLKDDIDAAKVAAEAAKVAAEQSATNAASSAQ
+                     QAANAAAQTATNAAQVAQSLIDISKVVADGKADILQLVSDGTTSLSKIITDGTASLNK
+                     IVSDATVVIDTKVTEAKDAATDAQTSAGVAKTEADRAEAAANALPDYEVGSAGDVFIT
+                     AGAGTPPVRQKYISGTDFSKLNIGEFFTGDGAGSAEKQTLIPLRNQDIATTNTVVKFF
+                     NDNSGKYLLASSFGAVSSRDVIAVDSTAEGGLDQKQVNELFNTRLNALAPTGEAYPWG
+                     KSETIADFIVSQDGYLISTVDDFTVLPDSTKVPTVANETVGNRSQYTTDGNYTIASHI
+                     NGKDFFENDFSALLCLFIDPNISTGDATIVANSQFSIRKVGTDIVYTVGSDTWSIGYT
+                     ANTWVYYLLASDGIGTVSNLTGDYVGGALTITDKGDQSLTNLVTSEDFSLTLEDGIRM
+                     SRLVMIDKRVVQTDFEKFLRFVFNVPNAASGVLPPAVSNNGFGLVTDSSQYTQKPVVY
+                     SKSFPNDWTIDWGVDTSSPGLLDKKAVVFKADVPNKTLTVEPGDSGSGIKNFPLDFIT
+                     NPPAGATFVSNIDGTAMADGTKFNLTVTKNGTVFTFDIEEEKMIRKVLTSQLPTIPAA
+                     APVKVADIDDKVVTRSIEFISDNNDVGAIRIGSLADLTADRTSGVLLEEGILLSFDQN
+                     QELYAISSSATTDVDGDLVLIEETLE"
+</span><span id="feature_NC-011646.1_gene_24" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[26928, 27338]]);</script>     <a href="/nuccore/NC_011646.1?from=26928&amp;to=27338&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="24" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            26928..27338
+                     /locus_tag="ASSaV_gp25"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070055">7070055</a>"
+</span><span id="feature_NC-011646.1_CDS_24" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[26928, 27338]]);</script>     <a href="/nuccore/NC_011646.1?from=26928&amp;to=27338&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="24" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             26928..27338
+                     /locus_tag="ASSaV_gp25"
+                     /note="ORF4"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906063">YP_002333642.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070055">7070055</a>"
+                     /translation="MNSMLRVTTLSSMSATFTGAAAGIVGSWLVNTFLIIFSSSISNV
+                     KTVPFFVTVKLNLVPSAIAVPSMFETKVAPAGGLVMKSRGKFLIPEPESPGSTVSVLL
+                     GTSALKTTAFLSNRPGEEVSTPQSIVQSLGNDLL"
+</span><span id="feature_NC-011646.1_gene_25" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[31597, 29384]]);</script>     <a href="/nuccore/NC_011646.1?from=29384&amp;to=31597&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="25" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(29384..31597)
+                     /locus_tag="ASSaV_gp26"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070061">7070061</a>"
+</span><span id="feature_NC-011646.1_CDS_25" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[31597, 29384]]);</script>     <a href="/nuccore/NC_011646.1?from=29384&amp;to=31597&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="25" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(29384..31597)
+                     /locus_tag="ASSaV_gp26"
+                     /note="ORF26"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906062">YP_002333643.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070061">7070061</a>"
+                     /translation="MQMIHVILMIATGGPTLIKIIVVIAVTEYVNQLGDLRQSTISAR
+                     VMGSRVGTNGFLGMLKSLDVLHQGTSITMRPPMKFISRATRNEAGFFIPIATPKQAEK
+                     TLIAINQTQGIQIVSGSTVATGADEFSIVSVNKDLSVTLDKALPAVSDSTGIIVAFYG
+                     KQQLELFTYQPTAVANTYNINALIGTEPDYINKFWTFKLATITVIPTFVQKPVDYVLT
+                     EKLNYFFTGSAGKAYSISDAGVFAELAIVYQAEVATTYRNFLVLGATENNKLVLRFSR
+                     QETFTIDNSTPRQILADGYGSRFFWMKSSSKGLFFATDSGVFLAEFNNSASLTTITNI
+                     IIYDERTSIPVRPFRFNGYLFFAGSDADNILYTWYEFYSSDLSVKTLNTKTGILSGEV
+                     ITKMDLVYFHANPVALVLTKSGKLFTVHLGMERENVLLSSYSQWLVNYSVDDFIIYRN
+                     EFAADEVIFSLNINGYSVFTSIKAMNEPQFELDNQQPFLDFYMVYNIGNTFHDKTTLH
+                     CNFNNNSGEILADTDFFRADMVGAVIKNDFCNLMIQNVESARRALATRLALTGSRTAN
+                     NFVLAADDYALASSTVQGLNHLQILKNPIAVVNKQTYALNASGVRGEFSLGTLADVAI
+                     CGFSYRMEIVTIPPCTELNSLDVSYNISVRIQHIGYQLPDLSVSDGNVVASEGIETKP
+                     ANLNLRYDDGEIFIKIFDAAVPTSRTSGPLVRISARSPYPPYISAIAIGFNKEEG"
+</span><span id="feature_NC-011646.1_gene_26" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[31955, 31506]]);</script>     <a href="/nuccore/NC_011646.1?from=31506&amp;to=31955&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="26" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(31506..31955)
+                     /locus_tag="ASSaV_gp27"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070060">7070060</a>"
+</span><span id="feature_NC-011646.1_CDS_26" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[31955, 31506]]);</script>     <a href="/nuccore/NC_011646.1?from=31506&amp;to=31955&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="26" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(31506..31955)
+                     /locus_tag="ASSaV_gp27"
+                     /note="ORF27"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906061">YP_002333644.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070060">7070060</a>"
+                     /translation="MFFPIVRDIAIDSFQWSFVPYLLFYSNAREFDKYRQAGSITYYD
+                     VKDEDYQRLKMRSIPYCGGRFLLGSEEETKLFPSYFTNVLIFGLASRLASSQGSFTTS
+                     RFMDTKYKEALAEARVIDADDPCDIDDCYWRPYPHKNNRGYCRDRIC"
+</span><span id="feature_NC-011646.1_gene_27" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[32617, 32090]]);</script>     <a href="/nuccore/NC_011646.1?from=32090&amp;to=32617&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="27" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(32090..32617)
+                     /locus_tag="ASSaV_gp28"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070059">7070059</a>"
+</span><span id="feature_NC-011646.1_CDS_27" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[32617, 32090]]);</script>     <a href="/nuccore/NC_011646.1?from=32090&amp;to=32617&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="27" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(32090..32617)
+                     /locus_tag="ASSaV_gp28"
+                     /note="ORF28"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906060">YP_002333645.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070059">7070059</a>"
+                     /translation="MTDFTVSNENQIENVRSSVSSAAVTIAAGADINAAPIPLFSSLT
+                     NNTKLIRLQMMSSAVVAGATKFTLELHIGNPDSCTAKILDNILAADGAFPAAAHKVET
+                     LEFGANWNVALGYVLDQYAEKQDSDGYTLVLRADAAVTNQVVLKFFFESMTGHYYRIP
+                     GTPKASFGTTYTKAS"
+</span><span id="feature_NC-011646.1_gene_28" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[33717, 32617]]);</script>     <a href="/nuccore/NC_011646.1?from=32617&amp;to=33717&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="28" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(32617..33717)
+                     /locus_tag="ASSaV_gp29"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070058">7070058</a>"
+</span><span id="feature_NC-011646.1_CDS_28" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[33717, 32617]]);</script>     <a href="/nuccore/NC_011646.1?from=32617&amp;to=33717&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="28" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(32617..33717)
+                     /locus_tag="ASSaV_gp29"
+                     /note="ORF29"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906059">YP_002333646.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070058">7070058</a>"
+                     /translation="MVGSVYIPDTHPIDTCNKVACDTFRSGDYFLVNRVMENSPLLKA
+                     VTVNVVTDNTLKSASIGAVEFRDVSVKESSYRPQPVAAVGRQALLRELDLSVEMQESH
+                     LINSDLLNLNNLITTMNRLTSRIKASFYRNVDRIIYEAMEASFSEVSAASGSFETRTA
+                     TDDDIPVVDASAGFTFATLSEITVQLNKMDYKGSGQMILLPLEAFCQLRDSAKTFPGM
+                     AVQLHEVSSPVPYGGLGFKFNDVMFYTPFGQPSYFRARDYNGSNYTIGYAFAPEESID
+                     FGYRSHKPFFAPPGSSPILNPSMVEIRAGPLSYDRKNGIFLAASTYLSALRIPNPVVV
+                     KILFNSSFASPASSSPAPPPPAPPSPKPARSR"
+</span><span id="feature_NC-011646.1_gene_29" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[34076, 33717]]);</script>     <a href="/nuccore/NC_011646.1?from=33717&amp;to=34076&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="29" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(33717..34076)
+                     /locus_tag="ASSaV_gp30"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070057">7070057</a>"
+</span><span id="feature_NC-011646.1_CDS_29" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[34076, 33717]]);</script>     <a href="/nuccore/NC_011646.1?from=33717&amp;to=34076&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="29" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(33717..34076)
+                     /locus_tag="ASSaV_gp30"
+                     /note="ORF30"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="<a href="/protein/216906058">YP_002333647.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070057">7070057</a>"
+                     /translation="MTASELGEGNTEKNEDSAYKEISAKINAIKEKLEDNDAKAKQET
+                     TAPAAQNTDILAKLEQHFVAIDEKLAEINKKQSAYDVGSAQVSAAEAKEKIDLSKMST
+                     AERVKYFFEQYSREGQQ"
+</span><span id="feature_NC-011646.1_gene_30" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["gene"]) oData[oData.length - 1].features["gene"] = [];oData[oData.length - 1].features["gene"].push([[34940, 34128]]);</script>     <a href="/nuccore/NC_011646.1?from=34128&amp;to=34940&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="gene" ifeat="30" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">gene</a>            complement(34128..34940)
+                     /locus_tag="ASSaV_gp31"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070056">7070056</a>"
+</span><span id="feature_NC-011646.1_CDS_30" class="feature"><script type="text/javascript">if (!oData[oData.length - 1].features["CDS"]) oData[oData.length - 1].features["CDS"] = [];oData[oData.length - 1].features["CDS"].push([[34940, 34128]]);</script>     <a href="/nuccore/NC_011646.1?from=34128&amp;to=34940&amp;sat=4&amp;sat_key=80829893" igi="NC-011646.1" sfeat="CDS" ifeat="30" ref="discoid=featurehighlight&amp;log$=featurehighlight" class="pseudolink">CDS</a>             complement(34128..34940)
+                     /locus_tag="ASSaV_gp31"
+                     /note="ORF31"
+                     /codon_start=1
+                     /product="thymidylate kinase"
+                     /protein_id="<a href="/protein/216906057">YP_002333648.1</a>"
+                     /db_xref="GeneID:<a href="/sites/entrez?db=gene&amp;cmd=Retrieve&amp;dopt=full_report&amp;list_uids=7070056">7070056</a>"
+                     /translation="MFITIEGIDKIGKSTVAQGLQRKFSQYSDNSIVLTHEPFNFNGL
+                     SNFLKKYQLSSKVEILIQTAARIEHATRLINPAISSGSIVICDRFIDSTIVYQGICCC
+                     DGISDLAAKHELNNILTGFVFCDNARYLLGQALSHLLNEHYDEHVFSSSEHMNSIDSS
+                     LFTDDLVNDIINLHQKYVPCYPHVTILLQPDDENVFLSEESNEKYLDRYEEIPFSHKK
+                     NIIAGYKHIFCNELGLHGRFLGNRRRFSRFFRTGTESVAHMVDDIFNFLTYS"
+</span>ORIGIN      
+<a name="sequence_NC-011646.1"></a>        1 <span class="ff_line" id="gi_NC-011646.1_1">ctatttaact aatttagtat tgtttgttgt tttcggttga gtcaattgtt tcgtcacctc</span>
+       61 <span class="ff_line" id="gi_NC-011646.1_61">atcacaacga acttcattaa tattaatacc atgacaagca tgcatgagtt ttttctttag</span>
+      121 <span class="ff_line" id="gi_NC-011646.1_121">tcgatacaca tctgtaacaa tgcccttgac atcctcaaca acagtacttc cattagagtc</span>
+      181 <span class="ff_line" id="gi_NC-011646.1_181">aacataaaca aaatcagcaa tatatgcaca gatgtgttgc ccattaacaa ctagattaaa</span>
+      241 <span class="ff_line" id="gi_NC-011646.1_241">ctttttctgc tgttctaatt ttgatattgt gcgtgattgc tgaagagttc ttagaaaaat</span>
+      301 <span class="ff_line" id="gi_NC-011646.1_301">agctcttcga tattcagctc gggagtcata cccacgtgtt cttttgttat taaatttttt</span>
+      361 <span class="ff_line" id="gi_NC-011646.1_361">cattaacaga gaaatagctt gtcagggcat aatcattaca ttaccgtttg tattaagaca</span>
+      421 <span class="ff_line" id="gi_NC-011646.1_421">agaaaaaaca gtcattaaat gagaaagctt agtctactcg aacgcagatg cctaaaattc</span>
+      481 <span class="ff_line" id="gi_NC-011646.1_481">acacaaactg aactacatgg taacacccaa gttgcctatt ttgtagggaa gtatgccttg</span>
+      541 <span class="ff_line" id="gi_NC-011646.1_541">gatccacaag ggttcattga aaatgaattg aaaatgcctt tatttgactg gcaattggaa</span>
+      601 <span class="ff_line" id="gi_NC-011646.1_601">attgttgact atattgctaa atttttccgg aaaaacagcg atgaaaaaca ttttgtctgt</span>
+      661 <span class="ff_line" id="gi_NC-011646.1_661">gccattgctg tttctggtgg taacggaaca ggaaaaacaa aactatctaa agctcttaat</span>
+      721 <span class="ff_line" id="gi_NC-011646.1_721">atttggaggt tttgttgcca ccccggctct cggcagttca tcttaacaaa ctctgagaga</span>
+      781 <span class="ff_line" id="gi_NC-011646.1_781">cagactaaaa gaactggatt caccatgtta gttcgcagaa ttagcaaact acttagctgc</span>
+      841 <span class="ff_line" id="gi_NC-011646.1_841">attgctgcat tggaatcatc tgcctactat tactcaccgg cagtagctga caaaccagaa</span>
+      901 <span class="ff_line" id="gi_NC-011646.1_901">gttcggacca acgacatgtg ggatgtcacc tatttacttc aatcatccac agaggcggct</span>
+      961 <span class="ff_line" id="gi_NC-011646.1_961">ttgtctgggc tgcaccatcc aatgatgacg ttttcttttg atgaatccac ttactttaat</span>
+     1021 <span class="ff_line" id="gi_NC-011646.1_1021">gatcatgtat ggcaagcctt agagaatatg tggacacagg gacaggtgct gtgtttttgc</span>
+     1081 <span class="ff_line" id="gi_NC-011646.1_1081">acaggaaatc ccagccatga caacaacaac tattttgctc ggctgtttaa caaatcactg</span>
+     1141 <span class="ff_line" id="gi_NC-011646.1_1141">cacaaaaagg atagcctgtg gctgaccaga tgcgtaagtt tgttagagct accactgaaa</span>
+     1201 <span class="ff_line" id="gi_NC-011646.1_1201">taccgcaatg atgctcgggc acgatatatt gaggagcatt acggcaaaac acatcctcga</span>
+     1261 <span class="ff_line" id="gi_NC-011646.1_1261">tatattgcca gtgtcttagg gcagtttccc aaaaaaaaca cctgtaatcc atttgacatc</span>
+     1321 <span class="ff_line" id="gi_NC-011646.1_1321">acagcaattt ctgaggcaat ggagcgggaa gttcgtgaag aattcattca tcaccccgta</span>
+     1381 <span class="ff_line" id="gi_NC-011646.1_1381">atcatgggca ttgatgtctc gatcagtgct aataatggat ctgcatcagc aatatgtgtg</span>
+     1441 <span class="ff_line" id="gi_NC-011646.1_1441">cgtgaaggca ctgctgttcg ggttcttcgt gagtatcgtt gccattatac agaatttcgc</span>
+     1501 <span class="ff_line" id="gi_NC-011646.1_1501">attaaactac tagaactact ccaagaaatc aagccaacta ttgttgttgt tgatgctaat</span>
+     1561 <span class="ff_line" id="gi_NC-011646.1_1561">ggtgtgggtt ttgggcttta tgaggagctg cataggactt tgcctgagac tagtaatgtt</span>
+     1621 <span class="ff_line" id="gi_NC-011646.1_1621">cgtgtctatg gtgtgcgtgc tcatgcagag gccttcctga aaagtgaata tgctgataaa</span>
+     1681 <span class="ff_line" id="gi_NC-011646.1_1681">atgtctgagc tggccaaaaa gtcatccgaa tggttcaata atgaactagt cagcatccca</span>
+     1741 <span class="ff_line" id="gi_NC-011646.1_1741">aaaaactatc aatttctcaa tgcactaaca tcattatctt ttgctgatgc tagcggaaaa</span>
+     1801 <span class="ff_line" id="gi_NC-011646.1_1801">atcaaactga ttggcaagac cgatgctaaa aagaaagtag atctttccat ggacatggca</span>
+     1861 <span class="ff_line" id="gi_NC-011646.1_1861">gatgcatttt tcttaacatt tttagatgga gtggagatgg actgggcaca aggagttaag</span>
+     1921 <span class="ff_line" id="gi_NC-011646.1_1921">gacaattatt tagaccaatc tgaggtatat tatggagtat gaattcattg attatttact</span>
+     1981 <span class="ff_line" id="gi_NC-011646.1_1981">aaagtgtgtt agctattcgt atcaatttta caataaaggt tggatgctgt attcgctgct</span>
+     2041 <span class="ff_line" id="gi_NC-011646.1_2041">gtctactaat aacgattgtt tattcaatat cagaagtaga ttcatcaata ctgttagtag</span>
+     2101 <span class="ff_line" id="gi_NC-011646.1_2101">tgatattttg catttaagtt catatttagg caatgttgcc aattcgtact gcaattggac</span>
+     2161 <span class="ff_line" id="gi_NC-011646.1_2161">agataataca gtggctgtca tctctaatgt ggctacggtt aatgcctacc agtatttatg</span>
+     2221 <span class="ff_line" id="gi_NC-011646.1_2221">gggtcgtgaa ggcaggaatg tctacattaa tctagatgac ggctatcacg ctggaacacc</span>
+     2281 <span class="ff_line" id="gi_NC-011646.1_2281">agatattaca acatttgaat ataaagttca gaaggccatt agtgcggata agaagctgaa</span>
+     2341 <span class="ff_line" id="gi_NC-011646.1_2341">tagagccatt aagaaagcat taaaagatgg tattgactat ggtgtaggat atctcgttga</span>
+     2401 <span class="ff_line" id="gi_NC-011646.1_2401">tattgacgga aaatacttct cccctcaccc attaagggtt ttcaagcatg atggcgatca</span>
+     2461 <span class="ff_line" id="gi_NC-011646.1_2461">cgatgatctt ttcgttctag agagatggtc tgatgaaaaa caaaaatata tcttgcatat</span>
+     2521 <span class="ff_line" id="gi_NC-011646.1_2521">tattggctcc ggtgacaaat acaaaaaaaa gctaggcatt aatagctcga aaaaatattt</span>
+     2581 <span class="ff_line" id="gi_NC-011646.1_2581">tatggtttcc ttacaagaag ggaaaaatgg caaaagatac gaaatcggta aagatttttt</span>
+     2641 <span class="ff_line" id="gi_NC-011646.1_2641">tgcttcacaa ccattaatac atgaattcaa gccaatgtcg tttgaaacag aagatggtat</span>
+     2701 <span class="ff_line" id="gi_NC-011646.1_2701">tgctactggc tctgggattg tcgctgttaa tgctgccatc aacttgcaga agatgtcctt</span>
+     2761 <span class="ff_line" id="gi_NC-011646.1_2761">ttctgcggtc tacgctcaag aggaggagct ccgtcctgca atgctggtta gacaggacct</span>
+     2821 <span class="ff_line" id="gi_NC-011646.1_2821">gttaagaaaa aggaaactct caattgcacc gggctcaatt cataccttta accaatacaa</span>
+     2881 <span class="ff_line" id="gi_NC-011646.1_2881">tacaaacagt ggagagccta ttcggtcgat gattccggct cgtggtggct ctgctgcatc</span>
+     2941 <span class="ff_line" id="gi_NC-011646.1_2941">ttttgttgag tattgggtag gcagagttcg tcaagcttat tttcccgaga atgcttcatt</span>
+     3001 <span class="ff_line" id="gi_NC-011646.1_3001">cacaggagtt ggtcaaacta ctgctgctga ggctaatcag atagcaacaa cttcaacaaa</span>
+     3061 <span class="ff_line" id="gi_NC-011646.1_3061">ttcattagct aatttaaaaa catcatttca cgactggttt ttgactccaa tcttagagac</span>
+     3121 <span class="ff_line" id="gi_NC-011646.1_3121">attcattgac cggatgccga aagattccgt ggaaaaagat atcattaaaa atagtactat</span>
+     3181 <span class="ff_line" id="gi_NC-011646.1_3181">tagatacatt ggacaacata ctgctgatct gctgaacgct gatattcaga atcttcgtgt</span>
+     3241 <span class="ff_line" id="gi_NC-011646.1_3241">actagccgaa gcatatgccg ttctaaaacc agacaatcct acaataggat taatgtccaa</span>
+     3301 <span class="ff_line" id="gi_NC-011646.1_3301">tggtgtaggc ataatgcagc ggattgctcg tgatgtttta cctaatggta ccgtattaac</span>
+     3361 <span class="ff_line" id="gi_NC-011646.1_3361">taaccaagaa tatgcagaag ccatgaatat actgctgcag caacaacaag ccttaggaga</span>
+     3421 <span class="ff_line" id="gi_NC-011646.1_3421">gccagcggca gaagaagcgg cagttcaaga gcaacaataa ttgtggaaca ttcattacca</span>
+     3481 <span class="ff_line" id="gi_NC-011646.1_3481">ttaaggagcg aaaatgacta atctaatatt accaactgat tttattgaaa ttttttccac</span>
+     3541 <span class="ff_line" id="gi_NC-011646.1_3541">agcagaagat tgtcgaaaaa aagctagcag tccagaagat attttttatc tggaggattt</span>
+     3601 <span class="ff_line" id="gi_NC-011646.1_3601">tttggccatg agagctagtg ttaaaaacga ttttcatgaa atcttacctc atttaatgac</span>
+     3661 <span class="ff_line" id="gi_NC-011646.1_3661">attaacgcct agagaagatt ttattttttt gaaaacgcag ttcgcagtgt tccacgtaga</span>
+     3721 <span class="ff_line" id="gi_NC-011646.1_3721">acatatgaag cctaaaaaac tggaaaaaaa agtgacttac ttcagtaaaa caaagctagg</span>
+     3781 <span class="ff_line" id="gi_NC-011646.1_3781">tgcattgttt tgggagtggt tcagccagaa aattaggtta atactaatag ttgtagcacc</span>
+     3841 <span class="ff_line" id="gi_NC-011646.1_3841">aaacaatgac ccaagattta accctgtgac aatatacaaa tcattattgg ttttgcaaga</span>
+     3901 <span class="ff_line" id="gi_NC-011646.1_3901">tctccttgac gacgatacac cacgtgtggt tgtgtaatgt ccgtcttaac accaatagct</span>
+     3961 <span class="ff_line" id="gi_NC-011646.1_3961">agaatgatta gaccaaatgc tcagcgagcc tcttactacc aaactggcag attaaagggt</span>
+     4021 <span class="ff_line" id="gi_NC-011646.1_4021">gctcatgctt tacttgccct caaaaatagc tttctaatta atagctcatt gttctcttat</span>
+     4081 <span class="ff_line" id="gi_NC-011646.1_4081">atgaaatcat taaaaaaatg tgacaagaag attgcattgt taattagcaa gtcagttgct</span>
+     4141 <span class="ff_line" id="gi_NC-011646.1_4141">tgttcatttt taaaactaga gcaggaaaca agtgggctgt gcattaatcc tgacgggcaa</span>
+     4201 <span class="ff_line" id="gi_NC-011646.1_4201">gaacacatta aatgttcaat aatttatttg ccagtaaata gcatgaatat tgatgcttgt</span>
+     4261 <span class="ff_line" id="gi_NC-011646.1_4261">ggtgaggttt tgaaagaggt ggttagaata tttccagact gtgaaattat accagcaaca</span>
+     4321 <span class="ff_line" id="gi_NC-011646.1_4321">aatattacaa ccgatacaaa catcttgtta agttttgaaa atctgaaaat tctattaaaa</span>
+     4381 <span class="ff_line" id="gi_NC-011646.1_4381">acatttaata taccatcaaa tgataaagag atttttttag gattggttgg tgatctagaa</span>
+     4441 <span class="ff_line" id="gi_NC-011646.1_4441">accagctcgg gctttagaga gcttgccaat tatgtccttg acaatataca gaaaaaaaga</span>
+     4501 <span class="ff_line" id="gi_NC-011646.1_4501">aaaagtagct ttggctagtg cgaaaaaacg taattataat agcacaaata atggcattgt</span>
+     4561 <span class="ff_line" id="gi_NC-011646.1_4561">tgagatgttt aagacagatt acctgtgaat actcctcaat gttccacgtg gaacattaag</span>
+     4621 <span class="ff_line" id="gi_NC-011646.1_4621">ttagaatatg gtatgatcat atcctgccag atcagtaaaa tcagttgttt cgtggttaaa</span>
+     4681 <span class="ff_line" id="gi_NC-011646.1_4681">aaacagatta acctctccac aagacccatt tctgtttttt tccacataca gcttagcaag</span>
+     4741 <span class="ff_line" id="gi_NC-011646.1_4741">tccacggctt ctgctgtatt cttcttgcca ctttgagaaa gatgaactat cttccttagg</span>
+     4801 <span class="ff_line" id="gi_NC-011646.1_4801">ccttcttttt aaaatgaatc tttctggtct gtggagcatt aaaacaatat ctgaatcctg</span>
+     4861 <span class="ff_line" id="gi_NC-011646.1_4861">ctcaatggaa ccagaatcgc ggatatcatt cattgatgga ccacgcagtt cttcttctgc</span>
+     4921 <span class="ff_line" id="gi_NC-011646.1_4921">aaagctggct gtattagact ttgctggcct tgacaattgt gctaagcaaa caattgtaat</span>
+     4981 <span class="ff_line" id="gi_NC-011646.1_4981">attatttttt aatgtcagtg tttttagcct accgctaata acagacatct cgtgcaccct</span>
+     5041 <span class="ff_line" id="gi_NC-011646.1_5041">atagttagat atatcgcctg taagagatag tagatggata tgatcaacaa aaaaatactt</span>
+     5101 <span class="ff_line" id="gi_NC-011646.1_5101">gcaattatgt ttttcttgta ggtcttcaat ttcggctact aggtggtcaa gagtcctgtc</span>
+     5161 <span class="ff_line" id="gi_NC-011646.1_5161">ctctaagaat ttaatatgct gcggtaactc acacaaaacc ttttgggcat tttctatttc</span>
+     5221 <span class="ff_line" id="gi_NC-011646.1_5221">aatcatatca caagtagtgc aatctgggga aaaaatccta tgtacaggca ccttactttc</span>
+     5281 <span class="ff_line" id="gi_NC-011646.1_5281">aaaagacagt actctccctt gcagctcctc agagtgcatc tcataagaga ggtatgccac</span>
+     5341 <span class="ff_line" id="gi_NC-011646.1_5341">tgatgtagtg gaattctttt tacaattttt aatatgcaac tctttagata aattattcat</span>
+     5401 <span class="ff_line" id="gi_NC-011646.1_5401">tatttttaga gccagactag tttttcccat tgaagtgcgt gctcctaggg tgactagttt</span>
+     5461 <span class="ff_line" id="gi_NC-011646.1_5461">tcctagtctc aacccattaa ttgtccgatc caaattatgt agtttggttg agatacaatg</span>
+     5521 <span class="ff_line" id="gi_NC-011646.1_5521">attttcattt agagcctccc ttatttcgtc gagcccctcc gaagtataca aattgggctt</span>
+     5581 <span class="ff_line" id="gi_NC-011646.1_5581">tttactgaag atgaagctgg aaaaataatc caattgtttt acggtggcag tgaaacgctt</span>
+     5641 <span class="ff_line" id="gi_NC-011646.1_5641">gaggcttttt ctagcggcat catcaattga taatggtgtt ggttgatggt ttctatcaaa</span>
+     5701 <span class="ff_line" id="gi_NC-011646.1_5701">gttaaacttg tcgcgaatat cctcactata gtttttcata tgtacctctg taagtcgcaa</span>
+     5761 <span class="ff_line" id="gi_NC-011646.1_5761">tacaatagta tgacataatt cttcaaaagt tacaagatca aaactatttt tttttgttaa</span>
+     5821 <span class="ff_line" id="gi_NC-011646.1_5821">aaacctgcat ttttctatta agaattccct cttctctgat tgaaagtcga agggcagtga</span>
+     5881 <span class="ff_line" id="gi_NC-011646.1_5881">gtactcaaga tcagttaatt taacttgttt tttgtttcta gcctcgtcaa caagtttggt</span>
+     5941 <span class="ff_line" id="gi_NC-011646.1_5941">gtagatgtgc tggcacagag ggtcagtgaa gacatattcg ggaaagctgt ccttaaaaaa</span>
+     6001 <span class="ff_line" id="gi_NC-011646.1_6001">aacaaccttt gcttggtcgt tgaatagtgc tctaattaag gcttcttctg agaacttgta</span>
+     6061 <span class="ff_line" id="gi_NC-011646.1_6061">catttttccc tgttttttaa taaatactca tcctaacaaa aaatgaaaaa aatgcttctt</span>
+     6121 <span class="ff_line" id="gi_NC-011646.1_6121">tttttctatt ttctatctaa tttcgtaaaa attaattaca ataaattatg ttaaaggttt</span>
+     6181 <span class="ff_line" id="gi_NC-011646.1_6181">ttttttgagg attatcgtgg tcgccaatca agtaaaactt ttccagaaaa tgccgataga</span>
+     6241 <span class="ff_line" id="gi_NC-011646.1_6241">aaaatatagt tatatagctc ccgttcggat tcttagtgtg atggttcata gaaaacggtt</span>
+     6301 <span class="ff_line" id="gi_NC-011646.1_6301">agtgatgaca cttgtcgatg ccgctggtgt taggcttcac cggtcggttg ggctttctcc</span>
+     6361 <span class="ff_line" id="gi_NC-011646.1_6361">tgaagtggat gattttgttc gtggctggac agagaagata ttggtttctt tttcgaatag</span>
+     6421 <span class="ff_line" id="gi_NC-011646.1_6421">atagagcaag cactgtgggt gggggacacc attaggagcg agctgttttt taagggggtg</span>
+     6481 <span class="ff_line" id="gi_NC-011646.1_6481">aaaataccac tcatcaacca agccaaattt ggtaaaatct tttccaaatt ctgtgtaaaa</span>
+     6541 <span class="ff_line" id="gi_NC-011646.1_6541">aaaagcgatc gtttttttga cggagggaca gccgtgtcaa ataaggcaaa aatacatggt</span>
+     6601 <span class="ff_line" id="gi_NC-011646.1_6601">tttttgattt tttttacatt gatattagag aaaaaacatt ctttgacatt aaatgtgatt</span>
+     6661 <span class="ff_line" id="gi_NC-011646.1_6661">tttcatgaaa aaaaataggt caaaatccct aaaaaaacaa catagttttt gcctgaaagt</span>
+     6721 <span class="ff_line" id="gi_NC-011646.1_6721">actgaaaatg ttatactatc agcatgttta attaaaaaaa gatttagttt aagtactgtt</span>
+     6781 <span class="ff_line" id="gi_NC-011646.1_6781">ttaagcacga taatgcctaa actagtataa aactacctag atatttagtt ctactctaaa</span>
+     6841 <span class="ff_line" id="gi_NC-011646.1_6841">aacattctaa aaacatgctt aaaaggaata tatgtcacag cttgacacac caacagcacg</span>
+     6901 <span class="ff_line" id="gi_NC-011646.1_6901">ccaaccagtt ctatatggct atgctcgagt ttcaaaacaa aaacaaaacc taacaaccca</span>
+     6961 <span class="ff_line" id="gi_NC-011646.1_6961">aatccgttta ctaaacaagg ctggatgcaa gcaaattttc tatgagaaga tctcaggagc</span>
+     7021 <span class="ff_line" id="gi_NC-011646.1_7021">gaaagataag aaggttgaac taggaaagtt gatatctgtc ctacaaaaag gcgatgtggt</span>
+     7081 <span class="ff_line" id="gi_NC-011646.1_7081">ggtggttgcc cacttagatc gattaggacg taatctggtc accaccttaa gaaccattga</span>
+     7141 <span class="ff_line" id="gi_NC-011646.1_7141">gcaaattaac aacaaaggag caagcatcaa ggccttagat ttcaacctag atagcggaac</span>
+     7201 <span class="ff_line" id="gi_NC-011646.1_7201">tgcaatgggt gatttaatga ttaaattcat ggctttcttt gctgagctgg aaagatattt</span>
+     7261 <span class="ff_line" id="gi_NC-011646.1_7261">cgccaaaatg aggtcagaag aacggctagc gaatttgaca aaaaaacaac gatcatcctt</span>
+     7321 <span class="ff_line" id="gi_NC-011646.1_7321">aggcagaaag gctgttttgg acaaaaaaac cattaaaaag tactatcagc aatatttaga</span>
+     7381 <span class="ff_line" id="gi_NC-011646.1_7381">cagaaaaaca acagtggcag ccattactga aaagctagga atcactaggg cttcgttcta</span>
+     7441 <span class="ff_line" id="gi_NC-011646.1_7441">taacgcactg aaaaggtata acatcaaaac atacgttcaa tctcatcttg atggagacat</span>
+     7501 <span class="ff_line" id="gi_NC-011646.1_7501">taatgaccca agcttcaagt atggcaaatt acattttaaa agagtcagag gaaaagttca</span>
+     7561 <span class="ff_line" id="gi_NC-011646.1_7561">gtgtaagtac tgatagtgag cagttctact tggtcacagc actgattaac accgttgctg</span>
+     7621 <span class="ff_line" id="gi_NC-011646.1_7621">gcctaaaaga agaagatcaa ccatcatatc gcaatattca aaacattatc cagcagataa</span>
+     7681 <span class="ff_line" id="gi_NC-011646.1_7681">taacggaaaa tctctatcta gatggcactg tatgtgcctt ggttagctat ggtcgggatc</span>
+     7741 <span class="ff_line" id="gi_NC-011646.1_7741">gaaatactaa caggaaaacc tacgtcgtcc atgaaaacac ctacaaaaag gtggtttccc</span>
+     7801 <span class="ff_line" id="gi_NC-011646.1_7801">tacaaaagga aggaatattt atctttactc accctattga aattagccag ctacagctca</span>
+     7861 <span class="ff_line" id="gi_NC-011646.1_7861">ttgaagaagg aaaaatcata cgtgatgttg cttcattgtt ggcatatccc gttcctccca</span>
+     7921 <span class="ff_line" id="gi_NC-011646.1_7921">aggaaatcaa aaaactaaca gatgtgggtg gtattgacgt gagagtcctg aaaaatcagg</span>
+     7981 <span class="ff_line" id="gi_NC-011646.1_7981">tgtgcatcaa ctttcagttc tactacctag gaagcattct aggaatggtt gggcgacagt</span>
+     8041 <span class="ff_line" id="gi_NC-011646.1_8041">tagatgaaaa aggtgctcca aaattaatta ggagccgctt taaggagcct ttctcacctt</span>
+     8101 <span class="ff_line" id="gi_NC-011646.1_8101">ggactagtac aactacccat caaatcgaaa tgctaaagaa aacatgctta aaaaacgttt</span>
+     8161 <span class="ff_line" id="gi_NC-011646.1_8161">taaaaacatt ggtttaaagc aaaaccaata accaaacatt ggatatattt taaaaaatat</span>
+     8221 <span class="ff_line" id="gi_NC-011646.1_8221">tatttcaaaa atattattgg acgaacgaaa acacgctgga agtcccgtgg ctctacgcac</span>
+     8281 <span class="ff_line" id="gi_NC-011646.1_8281">gtgtacgcgt atgtacgcta tcaacgtatc gcgcgcgatt taataattaa aagattacta</span>
+     8341 <span class="ff_line" id="gi_NC-011646.1_8341">tatttacagg agaattactc tattgattgt ttttctcatt taagtttttc tcaacattgg</span>
+     8401 <span class="ff_line" id="gi_NC-011646.1_8401">agttaacaac ggaacttgaa ccttaagttg gagttaacac cttaaccaga taaatagaat</span>
+     8461 <span class="ff_line" id="gi_NC-011646.1_8461">tacctctact taggagttgt ccttccgcta aatgaacttg atctttgatt ttcgctcaaa</span>
+     8521 <span class="ff_line" id="gi_NC-011646.1_8521">accgtcttca tcactacgtt cctaatcctg gtttttcgtt caatcttcga tcttcattca</span>
+     8581 <span class="ff_line" id="gi_NC-011646.1_8581">ttggagctct gtgagtcttt cttcaatgta tatgtagtca attttttgtt tatgcttcac</span>
+     8641 <span class="ff_line" id="gi_NC-011646.1_8641">tgacgttcgc acaaaaaatt taaagaatgt ttagttgttt ttctttacag agtttgtctg</span>
+     8701 <span class="ff_line" id="gi_NC-011646.1_8701">aactaatcgt ttcatttata tcctcgttga gcttatgccg ctacttgtcg gacaactcta</span>
+     8761 <span class="ff_line" id="gi_NC-011646.1_8761">ccctacgatc agttattctc taaagagata gggaaccaca aaaatatttt cttgtcaata</span>
+     8821 <span class="ff_line" id="gi_NC-011646.1_8821">gcctaaaaaa atatattttc ccaaaaacta ttgacaccac cctgtttgag ggtattaaac</span>
+     8881 <span class="ff_line" id="gi_NC-011646.1_8881">ctaaaacata aacattagtg taacgctagt gttatgttct tctgtagtgt tttagccatt</span>
+     8941 <span class="ff_line" id="gi_NC-011646.1_8941">aaagccataa aaatttgtgc tttaatggga aaaaatagtt attttctttg cctttttgat</span>
+     9001 <span class="ff_line" id="gi_NC-011646.1_9001">gggaaaaatt taaaatttta aaattaaaaa ccaataaata agaaaacatg tcctctttca</span>
+     9061 <span class="ff_line" id="gi_NC-011646.1_9061">tggaaattaa acaaaaagtt aaaatctctg atgtggtggg ggggcacgtg cggctgacgg</span>
+     9121 <span class="ff_line" id="gi_NC-011646.1_9121">agcggagcgg gcggctcttt ggtttgtgcc catttcacga ggaaaaaaca ccttcattca</span>
+     9181 <span class="ff_line" id="gi_NC-011646.1_9181">tagtcagcga cgagcttggg aaattctatt gttttggctg caatgcacat ggcgatgtat</span>
+     9241 <span class="ff_line" id="gi_NC-011646.1_9241">ttgatttttt gtccaaactg ctgggaatca gtgaccatga agcactagag tacttagcta</span>
+     9301 <span class="ff_line" id="gi_NC-011646.1_9301">aagacacagg aaccattatt gacagcaagc ctgacacaaa gacaatgttc tttgccaagg</span>
+     9361 <span class="ff_line" id="gi_NC-011646.1_9361">tggcagagat attcatggta agcctattgg acaatgttga ggcattaaac tatttaaaaa</span>
+     9421 <span class="ff_line" id="gi_NC-011646.1_9421">agcgaggagt tgaccagacg gctattaaac tttggtctat tggctttttt tcactggaaa</span>
+     9481 <span class="ff_line" id="gi_NC-011646.1_9481">aattaaaaga attcacagac aatcttacca gtgaagcacg agagtcattc agtgattttg</span>
+     9541 <span class="ff_line" id="gi_NC-011646.1_9541">ttcagctcac tgctttgaac caattagcta acaggatcat ctttccgata cacgacaaaa</span>
+     9601 <span class="ff_line" id="gi_NC-011646.1_9601">caggtgccat tattgccttt tctggcagga atttagacat agagacacaa actcctaaat</span>
+     9661 <span class="ff_line" id="gi_NC-011646.1_9661">acattaatac taaaaatact gaatcattta aaaaagggtc ttgtttttac ggattgcatc</span>
+     9721 <span class="ff_line" id="gi_NC-011646.1_9721">ggtgcaaaca aacattaaaa aaggattcaa tctatgttgt tgaagggttt tttgatgtta</span>
+     9781 <span class="ff_line" id="gi_NC-011646.1_9781">ttttaatgga taccttagga ttaaaagcaa ttgccactat gggcactgcc attactgacg</span>
+     9841 <span class="ff_line" id="gi_NC-011646.1_9841">atcatgtgag gattttagaa gacagacagc aaaagtttgt ttttttgttt gatggtgatt</span>
+     9901 <span class="ff_line" id="gi_NC-011646.1_9901">cagctggtca gtctgccatt tttaagcttt tttcaaaaag aatgattgtt aaatactcac</span>
+     9961 <span class="ff_line" id="gi_NC-011646.1_9961">tttttagctg ctattgggcc gtaccgctat ctgaagaaga ggatgccgca tccttagcct</span>
+    10021 <span class="ff_line" id="gi_NC-011646.1_10021">tacaagacca agcaaagttt cgagatatat tagcacagcc actggatatg tatgaattta</span>
+    10081 <span class="ff_line" id="gi_NC-011646.1_10081">tttataacta tgtttatggt accgaactac cggaaaaccc aaccagaaca gaccacatgc</span>
+    10141 <span class="ff_line" id="gi_NC-011646.1_10141">gtctggagag tatgctgagc ttgattgccc aaaaaatcgt tagaaacagc atgcgggaaa</span>
+    10201 <span class="ff_line" id="gi_NC-011646.1_10201">ggtttataga tttctataga gggagtcata agcacgaaaa acggccagaa tcttcgccaa</span>
+    10261 <span class="ff_line" id="gi_NC-011646.1_10261">caacaggaag ggaaaatttt ttccatattt tgtaccttgc tttgtcccgc catcaaaaag</span>
+    10321 <span class="ff_line" id="gi_NC-011646.1_10321">cttgcattaa aaggcttcct gaaatacttc ctttactgga agagttcgtc tttagacgaa</span>
+    10381 <span class="ff_line" id="gi_NC-011646.1_10381">aaataacgcc tgcacaaatt ttcggacaaa ttaaagcagg ggcactaata tcgcatgccc</span>
+    10441 <span class="ff_line" id="gi_NC-011646.1_10441">tagattcatt aaatgaaata ttaaacaagt ttatgataga cagatggcag caaaaaatca</span>
+    10501 <span class="ff_line" id="gi_NC-011646.1_10501">aaccaactga tgactcgcct gatttgctca tagattgggt gctgcttgaa gatgagttaa</span>
+    10561 <span class="ff_line" id="gi_NC-011646.1_10561">ttctttgctc tcgtgggtct gaattcaaga cagaattttt ccaaacagtc tcgaaaatac</span>
+    10621 <span class="ff_line" id="gi_NC-011646.1_10621">aggaccacga ggagctaatg aggaagatag ctagacatct aattaaagta acttaaaacg</span>
+    10681 <span class="ff_line" id="gi_NC-011646.1_10681">gcacttcatc atcgtcttca gcggcattgt ttccatcctc agaagtcacc ttattcaaaa</span>
+    10741 <span class="ff_line" id="gi_NC-011646.1_10741">ttactaatgt agaattaaag ccttgcagta caatctccat tgtagttctt tgattattct</span>
+    10801 <span class="ff_line" id="gi_NC-011646.1_10801">caacatcaac ccatttacgt gtttgaattg caccttcaat atataatctt gagccctttc</span>
+    10861 <span class="ff_line" id="gi_NC-011646.1_10861">taacgaattt ctctgcaata ctggccaatc catcgccata aataactata ttatgccact</span>
+    10921 <span class="ff_line" id="gi_NC-011646.1_10921">cagtcttttc acgacgttcg tttttagttt tatctatcca tgattcacta gttgccaaag</span>
+    10981 <span class="ff_line" id="gi_NC-011646.1_10981">gaaaattggc aactttagat ccattgttca tggtgcggat tacaggatct ttccctgtcc</span>
+    11041 <span class="ff_line" id="gi_NC-011646.1_11041">tgcctactaa tatagttttg ttaatactgt ttttcatggc taatcgctaa aaaataacta</span>
+    11101 <span class="ff_line" id="gi_NC-011646.1_11101">attagagcta acattagcac aatgcacatt atctttccat gaaaacaact taaaattaat</span>
+    11161 <span class="ff_line" id="gi_NC-011646.1_11161">tgtttcaaaa atcaacttta aggttaaaat gaaattattt ttgagttttt catgattaaa</span>
+    11221 <span class="ff_line" id="gi_NC-011646.1_11221">gtcagtgcca gcactattcg cttagctctc gccaaccaat ctggtttagt agctaaacta</span>
+    11281 <span class="ff_line" id="gi_NC-011646.1_11281">cgtggttacc aaccaccaat gaccgacagc atgaagctag ggtctttggc tcatgcaacc</span>
+    11341 <span class="ff_line" id="gi_NC-011646.1_11341">atccttgaac cagaaaaagt gaatgatttt cacttttata gtggcaccag aagcggcaaa</span>
+    11401 <span class="ff_line" id="gi_NC-011646.1_11401">gcttacaaag cattagcagc attaggcgat gacaaaatga tccttccagc acaaatgcat</span>
+    11461 <span class="ff_line" id="gi_NC-011646.1_11461">atcttaactg aaaacatgaa gaatgctctc catgaataca ttaaagacat gaactggcca</span>
+    11521 <span class="ff_line" id="gi_NC-011646.1_11521">caaacaaaca ttcttttaca agatgatact tttcgtgaaa agcatcttga ataccatgag</span>
+    11581 <span class="ff_line" id="gi_NC-011646.1_11581">gacgacctac atcaccgagg cgtaatagat gcctacagca aagatggagt actcatagat</span>
+    11641 <span class="ff_line" id="gi_NC-011646.1_11641">tacaagacta cagcagatgc tggaatcact gtaaaaacat gggaagcatc atgtgctcgc</span>
+    11701 <span class="ff_line" id="gi_NC-011646.1_11701">ctatattacc acattcaaat ggcgtattac gggaagttgt tggagcattg tgagaacatt</span>
+    11761 <span class="ff_line" id="gi_NC-011646.1_11761">aaagtcaaag actacataca tgtagtacaa agcacagcag agccatacct agtttttgtt</span>
+    11821 <span class="ff_line" id="gi_NC-011646.1_11821">tttaaatttt ctgattcaac aatagaattt gccttacagg aaatccagca aggcatttct</span>
+    11881 <span class="ff_line" id="gi_NC-011646.1_11881">acgctaagat acattcacaa cactcttaac aagatcaata caatcgaact tgacccatta</span>
+    11941 <span class="ff_line" id="gi_NC-011646.1_11941">atacgcgatg actacttaga aacaaaaaga gctttcactt ggttttaacc tagtttcctc</span>
+    12001 <span class="ff_line" id="gi_NC-011646.1_12001">acgggaagtg accttcccat ggaagaaaga gagtcctacg gctgccttca tggatcatga</span>
+    12061 <span class="ff_line" id="gi_NC-011646.1_12061">tggtcatagc ttaaaaaaca ttaacactgt acaaatcaat gcatctcaaa acattaacga</span>
+    12121 <span class="ff_line" id="gi_NC-011646.1_12121">attacattca acacaggata tcccccttgt tgagagcggg ggcctctaac ttcgactggc</span>
+    12181 <span class="ff_line" id="gi_NC-011646.1_12181">gttcaactaa ctgccgcatg tgcattcgca cgccattgca accaacggct ttgtgtctac</span>
+    12241 <span class="ff_line" id="gi_NC-011646.1_12241">gcgtcgttga acaaaagatt tacatctagt cccacaaaag tgggtaacaa agtgaattct</span>
+    12301 <span class="ff_line" id="gi_NC-011646.1_12301">tttttttaaa aataatcgaa aatgaaataa taaagctgtt ttcaaaatta taatgctgaa</span>
+    12361 <span class="ff_line" id="gi_NC-011646.1_12361">tttttcaact cagcaacata caacaaaatg aattatagta agtaattact gttggtcaag</span>
+    12421 <span class="ff_line" id="gi_NC-011646.1_12421">cttttttcat cttctcgcta gaactggaga tcgtgaccac ttgcttaacg ctgttgtttt</span>
+    12481 <span class="ff_line" id="gi_NC-011646.1_12481">tccttcaatg aaatccttct gcagtctgtc ctcgtaggct tttgcaccct caggatcgag</span>
+    12541 <span class="ff_line" id="gi_NC-011646.1_12541">caaggcgaat aaaatgtctg ttgtatattt ttgcaaaata ttagccgcca acgtttggtt</span>
+    12601 <span class="ff_line" id="gi_NC-011646.1_12601">aaatggtaat ttcgcccgca tcgtcctatg tagggctaaa aagacattcc ttttttttcc</span>
+    12661 <span class="ff_line" id="gi_NC-011646.1_12661">aatcagtttt gctccagcgg caacaggaag ctcaaaaccc cacaggttaa tcccaccact</span>
+    12721 <span class="ff_line" id="gi_NC-011646.1_12721">agaaaacatg aactgttcaa ttaaggcgtc tcctgtagga ccagaaaatc cagcatacat</span>
+    12781 <span class="ff_line" id="gi_NC-011646.1_12781">cattgcgaga gccagtgatc tggagtccac ggccggtttt tctcctcgca gcaacttctt</span>
+    12841 <span class="ff_line" id="gi_NC-011646.1_12841">cacctcaacg gctaataagc ctagaaacaa aacatgagca gaattaataa caaactgacc</span>
+    12901 <span class="ff_line" id="gi_NC-011646.1_12901">aaacctacca gcgtagaggt gttcaatctg cagattccct agtcctagga tgttattata</span>
+    12961 <span class="ff_line" id="gi_NC-011646.1_12961">tgcaacattt gcaaacggtt caactaaatc tgactgcaca atgctggcaa ctgtggcacc</span>
+    13021 <span class="ff_line" id="gi_NC-011646.1_13021">agtccgaact ttagctgttc ttcctaaccg agtgtttttc ggtgctgcga ataaagcaga</span>
+    13081 <span class="ff_line" id="gi_NC-011646.1_13081">acccacttca gccactgcaa atctattaac aacagcactt ctgtctcctt gattaatcaa</span>
+    13141 <span class="ff_line" id="gi_NC-011646.1_13141">gtagcgtgct gacattaaat caatattccc accaacagtg acagattttt tcttcctata</span>
+    13201 <span class="ff_line" id="gi_NC-011646.1_13201">agagtcccaa tctgctctat taatgccgaa cctttccaaa aatgccctgt aatccatgct</span>
+    13261 <span class="ff_line" id="gi_NC-011646.1_13261">taatttggtc caaggtgtgc ttttgtttag gtgcgtcgcc ctagaaaaca aggccgctcc</span>
+    13321 <span class="ff_line" id="gi_NC-011646.1_13321">catgacttca ttattattac tgatttttct ggttaaatca tgtgatgaat taaagatttt</span>
+    13381 <span class="ff_line" id="gi_NC-011646.1_13381">tcggcctagg cttttaaaaa ccggtttccc aggaccattc aacatctcat taacctctgt</span>
+    13441 <span class="ff_line" id="gi_NC-011646.1_13441">ggttaatgca ttgatgcttg ttttaaggaa aaagaaacat tcatttcgtt ctgccttggt</span>
+    13501 <span class="ff_line" id="gi_NC-011646.1_13501">catttttttt aaaatggtct ttgccgatct ataagatgtt agtcgatcta gtccaaacat</span>
+    13561 <span class="ff_line" id="gi_NC-011646.1_13561">ggttccagca ataggcagat ttcccaatgg atctaaaaca gcagcaggga cgaaagcccc</span>
+    13621 <span class="ff_line" id="gi_NC-011646.1_13621">agcagtcata cctttcaggg ttgtattttt taaaaatccc agtaatcttc ccaatttgcc</span>
+    13681 <span class="ff_line" id="gi_NC-011646.1_13681">gggcaaaaca tacccattat gcagcagcat agcttcttta aactgcagct caagattggc</span>
+    13741 <span class="ff_line" id="gi_NC-011646.1_13741">taattttcct gagtcaatgc tcaatccttg agcctttgcc atattaccca gtccattgtg</span>
+    13801 <span class="ff_line" id="gi_NC-011646.1_13801">cagcacattg gtgaaagtgt tgatgtcttc gagcgaatga acaccaaaag atgcttgaac</span>
+    13861 <span class="ff_line" id="gi_NC-011646.1_13861">aatgtcatct gatgcattaa tggcaaagtt tcttaatgca gagaatgcac taggaacgtc</span>
+    13921 <span class="ff_line" id="gi_NC-011646.1_13921">ctcagagcca aacagatcat gagcggcata ccacgatgca ccatctttaa aaaagagcag</span>
+    13981 <span class="ff_line" id="gi_NC-011646.1_13981">acgatcaccc cgcaatgttc ttaacgtgcc actagcatca gacttcaccc tccgttgatc</span>
+    14041 <span class="ff_line" id="gi_NC-011646.1_14041">ggcggcaatg ttgttgtata ttttacctag agaatccgtg ctatttttat agatattgcc</span>
+    14101 <span class="ff_line" id="gi_NC-011646.1_14101">actggcagtg acggcttgtc tcattctaga ctcgtccact agtccaatca tttcctcaat</span>
+    14161 <span class="ff_line" id="gi_NC-011646.1_14161">gaactcagct tgaccaacag agcgaattct ttctttatcc cacatgttgg gaaaccaccc</span>
+    14221 <span class="ff_line" id="gi_NC-011646.1_14221">atcgtccagc ttgctgtaca ggcctttctc tatgccttga gacttaatct tgttaatggc</span>
+    14281 <span class="ff_line" id="gi_NC-011646.1_14281">ttgacgaaag attgctgatt ttgagttata cctgtttttt cctgttggat ttatcactcc</span>
+    14341 <span class="ff_line" id="gi_NC-011646.1_14341">gtccacgatg tcagcatgtg caggcaactg aaacacacct tcatcaactt tgagcagctt</span>
+    14401 <span class="ff_line" id="gi_NC-011646.1_14401">agcaagactc agctgagcct cctctaaaac gctaactacc ggctgtacac tctgcgattc</span>
+    14461 <span class="ff_line" id="gi_NC-011646.1_14461">aaccagctcc atggtggcgt tgtagacgtt cctaattttt cccaaagaat ctaaaccaga</span>
+    14521 <span class="ff_line" id="gi_NC-011646.1_14521">aaacagattg ttttccttgc cggtcattgt tccagctcgc aagagcgttt cccatgtgga</span>
+    14581 <span class="ff_line" id="gi_NC-011646.1_14581">aagctcagca acctttttgt tgtaattggc agctgctcta attttttctt ctgttttaaa</span>
+    14641 <span class="ff_line" id="gi_NC-011646.1_14641">ggagaaaatc tgctctgcag aaatagcagt gctaggtggt ggagcatcta cctcagcctg</span>
+    14701 <span class="ff_line" id="gi_NC-011646.1_14701">ccataagcgt ttaatagcag tagccagaga gctctggatg aattcccctc taggctggct</span>
+    14761 <span class="ff_line" id="gi_NC-011646.1_14761">aacaacatgt tcgaacacct gatcgtagct atgcctgaac tgctgctctg ctaattctcc</span>
+    14821 <span class="ff_line" id="gi_NC-011646.1_14821">agcgagctgt ccttgagctc cactgtttgc tggttggctc gccattcggt taattgattg</span>
+    14881 <span class="ff_line" id="gi_NC-011646.1_14881">taaaaatccg ccatctgtgc tagctccatc tccaacaagt cgattgtaag tgctggctcc</span>
+    14941 <span class="ff_line" id="gi_NC-011646.1_14941">tgaaacttct ccattgcttc ctcttgttgt gttaatgtag tcatcaaagc caattctctc</span>
+    15001 <span class="ff_line" id="gi_NC-011646.1_15001">ggcctgtgta tagtcaatta aattgcttgc tgcctcaagc tgcgtgttag cagtgatccc</span>
+    15061 <span class="ff_line" id="gi_NC-011646.1_15061">agtgtttttg ggtgcctctg ccttgaccat attattaaaa ttctcagtgt tggtgacata</span>
+    15121 <span class="ff_line" id="gi_NC-011646.1_15121">accgctgggt gtcttagcaa tctcctcagc agcagcatcg tcaccacgaa aacgagcatt</span>
+    15181 <span class="ff_line" id="gi_NC-011646.1_15181">ggcatagttt tttaccaata actcagattc agccccatca aatgccgtgc ttactggtgt</span>
+    15241 <span class="ff_line" id="gi_NC-011646.1_15241">tgagcggatt gaggagatca cttcagcccg ctcagccgcc cccataccat caacaatgct</span>
+    15301 <span class="ff_line" id="gi_NC-011646.1_15301">acgagcacca ctgcgtgacc attggtaaac accacctact ttccttaggg caaagggcac</span>
+    15361 <span class="ff_line" id="gi_NC-011646.1_15361">accaatacca actcccttta aaagtagttc tattgctaga ttatcggcac cagcagatag</span>
+    15421 <span class="ff_line" id="gi_NC-011646.1_15421">tgctgtttct tttagatcca ctggatcaag ctcaaaaact ttaattaatc cacgttcatt</span>
+    15481 <span class="ff_line" id="gi_NC-011646.1_15481">ggaattcttc tgctttaaca cagactcaac aacattgtag ccaatgaaac cagctgaggt</span>
+    15541 <span class="ff_line" id="gi_NC-011646.1_15541">tatgaatgaa gcagcagcag caggaacagc tagagcagtt aaaccagcag cagctccaat</span>
+    15601 <span class="ff_line" id="gi_NC-011646.1_15601">accgacagca gttgagccaa gaatactaat agtaaactgc aatggatgat tcatggcatg</span>
+    15661 <span class="ff_line" id="gi_NC-011646.1_15661">ggacaagagc atggggcctg cgtttgtaat ggcacgcgtt aaaaaagact gatcagcaaa</span>
+    15721 <span class="ff_line" id="gi_NC-011646.1_15721">ccgaggatca atttgcgatg ttgcaagaat ctgtgcccta atttcagcag aagattgcat</span>
+    15781 <span class="ff_line" id="gi_NC-011646.1_15781">gagtggctca gacgtcccgg caatcagtct attgtactca tcaactttag tatctactgc</span>
+    15841 <span class="ff_line" id="gi_NC-011646.1_15841">agccagtcgt tctggatgaa tattgcccag caagtagact tcttctggca cttcaatccc</span>
+    15901 <span class="ff_line" id="gi_NC-011646.1_15901">gacagacagt agtttccgct cattgtttac ttgttggata gccaaccgcc tgagtatgtt</span>
+    15961 <span class="ff_line" id="gi_NC-011646.1_15961">gtcttgggcg atcttattgt tggttagtga aatattaaac tcaccatcca tgacctcgga</span>
+    16021 <span class="ff_line" id="gi_NC-011646.1_16021">aaacagcagt tcatttttct gcagataatc aagataacct gtagttggta ttaggtttga</span>
+    16081 <span class="ff_line" id="gi_NC-011646.1_16081">cttttcaact attagttttt tagcttgctc aacaggcttg ccatcagtgg caaatgcaac</span>
+    16141 <span class="ff_line" id="gi_NC-011646.1_16141">atcccgagaa acttgcgtag tgtcaaataa ggtcaattta tgcctctttg tttggctata</span>
+    16201 <span class="ff_line" id="gi_NC-011646.1_16201">atactcgaca tacgctggta atcactcttt ttcacaatta gctcattacc agcaatatca</span>
+    16261 <span class="ff_line" id="gi_NC-011646.1_16261">gaaacaaaac ccgtcaatgt actgccactg tagagtagtt tccagctatt gggtgatata</span>
+    16321 <span class="ff_line" id="gi_NC-011646.1_16321">tttaccggaa ctatctggct cgtaaaataa taaaatttct cagctttaaa aaaggattgt</span>
+    16381 <span class="ff_line" id="gi_NC-011646.1_16381">gttaatggga ttggattgcc cgcaatgtta atgtaaatat ctttcgtgcc gaacagctca</span>
+    16441 <span class="ff_line" id="gi_NC-011646.1_16441">cgaacccctt ctaagcccaa actagaaata gcatctggca gtgtctgggt gttgctagtc</span>
+    16501 <span class="ff_line" id="gi_NC-011646.1_16501">agggcattgg agatagtgtt gttaggattt ttgttttttg gcacccgagg agctgaatag</span>
+    16561 <span class="ff_line" id="gi_NC-011646.1_16561">ccatccttaa atgtacggtc taggaatctc tttgcatcac cagcattaac agcatacata</span>
+    16621 <span class="ff_line" id="gi_NC-011646.1_16621">ctcctgtatt gctgagccat ggcatcaccg acaatagggg cgaaagcata ggcagaattt</span>
+    16681 <span class="ff_line" id="gi_NC-011646.1_16681">attgtcgcaa cccctgtggc tgtagactta gtaatgtccg gtgtcagctg ccccacagtc</span>
+    16741 <span class="ff_line" id="gi_NC-011646.1_16741">atcgacctcg acattaatgc ctcagcattg ccttgatatg attcagcagt gcgggaccag</span>
+    16801 <span class="ff_line" id="gi_NC-011646.1_16801">ccgtaaacgc ctctgatttc cgtgggcaga tgttggtaca acagccactc aatctctgcg</span>
+    16861 <span class="ff_line" id="gi_NC-011646.1_16861">gtgcactacc ttgcttaatt ctattaacta gctgcatctt ttcattagag tccatgtttg</span>
+    16921 <span class="ff_line" id="gi_NC-011646.1_16921">ctgctaatct agccagagta ttagtgttgt ttttgcttag tagtgttgtt ggcggtccat</span>
+    16981 <span class="ff_line" id="gi_NC-011646.1_16981">actgccgtgc taaattataa ttgctagtag cctgagccat gccgtttgca atgctgtttt</span>
+    17041 <span class="ff_line" id="gi_NC-011646.1_17041">catctaaaaa attaattgat tcatcccgaa caatattctg atcgattaaa aactgagccg</span>
+    17101 <span class="ff_line" id="gi_NC-011646.1_17101">aatcaatacc aatttgctgc tcaacataat tttttctttc cgttaaaata ctagcaattt</span>
+    17161 <span class="ff_line" id="gi_NC-011646.1_17161">cagggtcttt agcgttttta atgtactcat taagctcagc tggtgttgca cggcgaaaag</span>
+    17221 <span class="ff_line" id="gi_NC-011646.1_17221">acttaactac atcatatgtt agtgcaactt gtgggtttgc cagctctaga ttattgggct</span>
+    17281 <span class="ff_line" id="gi_NC-011646.1_17281">gtctcccggc aatagccgca tccaatgccc tgtttagatt aatatctctc tctgcaccac</span>
+    17341 <span class="ff_line" id="gi_NC-011646.1_17341">cttcgctgct ttgctttaat gcagattgta gtctggttcc atcggctaat gttaaaatcc</span>
+    17401 <span class="ff_line" id="gi_NC-011646.1_17401">cccggtcgat catctcttga gtcattgcct gaatatcttc aaccggtaaa gcattgttaa</span>
+    17461 <span class="ff_line" id="gi_NC-011646.1_17461">caatgatgtt tttaactaaa tcattcgtag cattagccct gatactcaag gcctttgacc</span>
+    17521 <span class="ff_line" id="gi_NC-011646.1_17521">tagggattaa ttgttctagg ttagttaagt cgttttctaa aattccaact aagacatcag</span>
+    17581 <span class="ff_line" id="gi_NC-011646.1_17581">gagatatttg attcttgtta aattggttgg ctaattccac tacatgactg ttgaaagcgg</span>
+    17641 <span class="ff_line" id="gi_NC-011646.1_17641">ctgtagcact gtcgcttgga ctatcggtga ttgcttgtct ttttttcaac aagctgtttt</span>
+    17701 <span class="ff_line" id="gi_NC-011646.1_17701">tcactcctct tgttagatcg tcaaattgac tactactaat ggaaagattc tgctcgtgta</span>
+    17761 <span class="ff_line" id="gi_NC-011646.1_17761">tcctgcctct cagggtattg gagatactgt ttacagtttt atcaaaattt tcagtagtca</span>
+    17821 <span class="ff_line" id="gi_NC-011646.1_17821">ggtcagatgc cacaatatcc tgatccaact gcaaatactg gtcttcaacg aattttgcca</span>
+    17881 <span class="ff_line" id="gi_NC-011646.1_17881">accgagcatt tttccgctct gcatcgtatt ttccgatcac gcccgctaga tttgccagac</span>
+    17941 <span class="ff_line" id="gi_NC-011646.1_17941">tgttcagcag ctcatcaacc atgaaaaaac cattagaaac aaaactccat attgacacta</span>
+    18001 <span class="ff_line" id="gi_NC-011646.1_18001">aagactagct atggtcaagt gggttatatt aattggaata tttaaccatg gcgttatttg</span>
+    18061 <span class="ff_line" id="gi_NC-011646.1_18061">cttttgcagc cctagcatca atagctgcag ctggttttgg tgcttgtaga aacagcagag</span>
+    18121 <span class="ff_line" id="gi_NC-011646.1_18121">aaaacagcag gagaaaagtt ttattgcgta atgagctggt ggcacaagaa gagcttttaa</span>
+    18181 <span class="ff_line" id="gi_NC-011646.1_18181">accgagaaag gcggcttaga gctgctggca ttaatgcttt tcagcgacgt ggttcaacgg</span>
+    18241 <span class="ff_line" id="gi_NC-011646.1_18241">cttttgacga tcttgatgat gagttttctt tgcgagggaa ttcgctcaat gctaatacct</span>
+    18301 <span class="ff_line" id="gi_NC-011646.1_18301">acagtcgcag agtggctaat ccaggcttaa ctgattcttt tgctgatctg agcagagggg</span>
+    18361 <span class="ff_line" id="gi_NC-011646.1_18361">tagttaaggc agcagaattt ctcattaatc gtagcaaatt agggggctag tgtggcaaaa</span>
+    18421 <span class="ff_line" id="gi_NC-011646.1_18421">atatcacaaa tcaaaccaac acaagtaaac atatctggaa aggaaattcc tagcagtcca</span>
+    18481 <span class="ff_line" id="gi_NC-011646.1_18481">gctaatccca gcacagatgc aagtatttgg gctagtgatg gtgcagatga tggtaaatgg</span>
+    18541 <span class="ff_line" id="gi_NC-011646.1_18541">aagccagatc caacaccaga ggtcagtgca ctccagtctg gagatgcttt ggttgtagat</span>
+    18601 <span class="ff_line" id="gi_NC-011646.1_18601">actatcgatg ccactcagaa aacagcgacg cacaaagcac agccattcat tccggcagat</span>
+    18661 <span class="ff_line" id="gi_NC-011646.1_18661">gatggtacac tatctttggt taatcaaagt ggtattattg gcgatttagc catcacatac</span>
+    18721 <span class="ff_line" id="gi_NC-011646.1_18721">tccaatttag tgatcactat tccagcatat aaagctgttt tttatgattc tgctactaat</span>
+    18781 <span class="ff_line" id="gi_NC-011646.1_18781">gccagaataa tttttgataa atcacaagag gcattaacca ttgctgctgc tggacagaat</span>
+    18841 <span class="ff_line" id="gi_NC-011646.1_18841">acagatgatg tcacatgggt ggaaatactt agtgatggga gctatagcca gacaacatcc</span>
+    18901 <span class="ff_line" id="gi_NC-011646.1_18901">cgccctagcg atattgacac acttactcga aatttcattg ctgaagtcga tcatccagaa</span>
+    18961 <span class="ff_line" id="gi_NC-011646.1_18961">ggaggaaata ttgttggtgt taagcctatc tacaagccct acgatgtaat tcaaaccaga</span>
+    19021 <span class="ff_line" id="gi_NC-011646.1_19021">atgagggcat tgggcaatgc tttgggtatt agcagcagtg gttttggctt ttcctacgcg</span>
+    19081 <span class="ff_line" id="gi_NC-011646.1_19081">gctgccactg gcgtgcttaa tcagactagt aacgtagcta gagtctttgg ctatggagtg</span>
+    19141 <span class="ff_line" id="gi_NC-011646.1_19141">ggtgagtttg gctacagaga gttcttggta gcctctgtcc aaggcagata tttatcgttc</span>
+    19201 <span class="ff_line" id="gi_NC-011646.1_19201">gactcagccg aagccggtat gtttaccacc ctacttaaaa catataaaat agatgatcca</span>
+    19261 <span class="ff_line" id="gi_NC-011646.1_19261">gccaacaaca ccagtagcaa cattagcgct ggaaattttg ctatactatt attattcgct</span>
+    19321 <span class="ff_line" id="gi_NC-011646.1_19321">agtgttagtg gtgaatatgc tatacttgcc ccgcaagaag agtttgataa tgctgacgat</span>
+    19381 <span class="ff_line" id="gi_NC-011646.1_19381">gctttggcta atatattgct atatccatcc caagtgacaa gacccaaaga actagatgaa</span>
+    19441 <span class="ff_line" id="gi_NC-011646.1_19441">ttctttaagc tggttgcttc gatcatagtg cctagaacag tggctgctaa caatactgat</span>
+    19501 <span class="ff_line" id="gi_NC-011646.1_19501">gttgtggtat ataccacgcc ggatgttggt tttggtgggg ctagtgctgg tgctggtgct</span>
+    19561 <span class="ff_line" id="gi_NC-011646.1_19561">ggtggtgctg tagttcctga tccatctact gcaaatcctg gcgatagact ggtggtcaat</span>
+    19621 <span class="ff_line" id="gi_NC-011646.1_19621">agtgctggca acgctttaga atacaagcca gagcctagca ttgatactgc tggtgccacg</span>
+    19681 <span class="ff_line" id="gi_NC-011646.1_19681">cctgctagtg tgttgcaacg caatgctgat ggaactttta aggttgccga tattgccaca</span>
+    19741 <span class="ff_line" id="gi_NC-011646.1_19741">agcaataacc ttgcatttca aggaaataac attagggttg gtgtggccat tgttgacgtt</span>
+    19801 <span class="ff_line" id="gi_NC-011646.1_19801">gtaactgggg tagtttctaa ctatgggctt gattttgtca ctgataaagt cactatgaaa</span>
+    19861 <span class="ff_line" id="gi_NC-011646.1_19861">tatagtagag atacatcttc tgatctagct actgctactt ttactactac caccagtggc</span>
+    19921 <span class="ff_line" id="gi_NC-011646.1_19921">gttacttctg tcatcctatc aaccgcctac aagaccatta aacctgtcac ttatagtcaa</span>
+    19981 <span class="ff_line" id="gi_NC-011646.1_19981">tctacctctt ctttcgtagc aacagcaagc acaataagcg gtactattgg agctaggggt</span>
+    20041 <span class="ff_line" id="gi_NC-011646.1_20041">agtgttaatt ttatacagaa ggcgtcggag accggcagtc agaaaatttt tgtattctat</span>
+    20101 <span class="ff_line" id="gi_NC-011646.1_20101">aggctagttt agcttgataa agcttatata aaaaatatta ccagcattga cgggaaaatt</span>
+    20161 <span class="ff_line" id="gi_NC-011646.1_20161">ataatcatac gatggatagt aaaaacctct tgcttttttg ttgccgagat cttccacatt</span>
+    20221 <span class="ff_line" id="gi_NC-011646.1_20221">gccagcaatg ctccctatgt cttcatcgga caacacatgt atcctataaa aatctctttt</span>
+    20281 <span class="ff_line" id="gi_NC-011646.1_20281">cccttgcgaa aatacatcgt tgtagtcttc tactgcatta tcacgcatcc taaatacaat</span>
+    20341 <span class="ff_line" id="gi_NC-011646.1_20341">tgtatcaagc gcccctgatc catcaacgac tgcattaagg gggtatttaa attttgggaa</span>
+    20401 <span class="ff_line" id="gi_NC-011646.1_20401">aaaattagca ctagttgtgg cgtttttaag ctcactaggt atctccttta accttgcttt</span>
+    20461 <span class="ff_line" id="gi_NC-011646.1_20461">taccatgtca atgtcagaaa tagacagtgg ctgagtaagg tcaactgtac taacttgtat</span>
+    20521 <span class="ff_line" id="gi_NC-011646.1_20521">ttgcatgcca tcaccaaaat gcaggacaat catgtatttc attttttcag ggtcaagctg</span>
+    20581 <span class="ff_line" id="gi_NC-011646.1_20581">gtctttaaaa ctagtaaagt caggaagatt ggcggctatg gcatcaaaaa agcttttact</span>
+    20641 <span class="ff_line" id="gi_NC-011646.1_20641">accatctata agaatagccc tcaattcacc ctgatatatg gcatcgattg gacttgacca</span>
+    20701 <span class="ff_line" id="gi_NC-011646.1_20701">tccaatgtta aatgttccag agacattggg aatattggtg tcagcctcta caatatttat</span>
+    20761 <span class="ff_line" id="gi_NC-011646.1_20761">tttgtaacgt acttgattac ggctatcacg aaaaactgtt tcaagtttgc caacaacagt</span>
+    20821 <span class="ff_line" id="gi_NC-011646.1_20821">ataaatatta gtattcttag gttgattact aaaatttgca tacccaccat caggaaagta</span>
+    20881 <span class="ff_line" id="gi_NC-011646.1_20881">tgccactatt cccggcttct tcgaaatatt ttcaaaacct ggctcagtgc tcaaatgttt</span>
+    20941 <span class="ff_line" id="gi_NC-011646.1_20941">ggcactatct actaacacat cttcactagc attagtagca gtgggcacag gaattaccac</span>
+    21001 <span class="ff_line" id="gi_NC-011646.1_21001">aggagcatca ggaatcacag cagtaccacc acccctactt aagctttggc gtaattgaaa</span>
+    21061 <span class="ff_line" id="gi_NC-011646.1_21061">tagtgttgta tctgcaaaat tattgttgtc ttcattaaca accaacacag caataatagt</span>
+    21121 <span class="ff_line" id="gi_NC-011646.1_21121">gctaaaccta tcagagccaa caggaagtag taagctttgt tcgacagcaa gaatattagc</span>
+    21181 <span class="ff_line" id="gi_NC-011646.1_21181">atccaaaacc ctattatcta tattattatc tgaacctacc ttttgtgggt atatcatggc</span>
+    21241 <span class="ff_line" id="gi_NC-011646.1_21241">gaaagtgcca ttggaaagta ggtagatata ccaaaatact tgctcatcct tagcaagagc</span>
+    21301 <span class="ff_line" id="gi_NC-011646.1_21301">cctaggtgcc tggtctgtgg gtagccaaac ttgttttaaa aagtttgcat caaaagttgt</span>
+    21361 <span class="ff_line" id="gi_NC-011646.1_21361">ttttacctct tccgctccct catggttgta gacagttaca ggcaatgtac ctgcagcagg</span>
+    21421 <span class="ff_line" id="gi_NC-011646.1_21421">cacatccatc acttttctcg ccccgtaaaa caatttacca ccatcggtag caaacccatt</span>
+    21481 <span class="ff_line" id="gi_NC-011646.1_21481">agttttattt tttttaaatg aaacgccatc ataccaataa ccaataatcc aaagcaaaga</span>
+    21541 <span class="ff_line" id="gi_NC-011646.1_21541">ttcagctttg gccagtgcat cagttagttg agatctccta ttcaaataaa atgcttgcac</span>
+    21601 <span class="ff_line" id="gi_NC-011646.1_21601">agaactgtta ggaaaagtgc tattaacaaa cttaggatct ggatcggctt taacgtcaca</span>
+    21661 <span class="ff_line" id="gi_NC-011646.1_21661">gattaaaatc tcatcaactg ttggtttgcc aaatttctta gtagagataa ctccagttga</span>
+    21721 <span class="ff_line" id="gi_NC-011646.1_21721">tttgtcaaca actatagtac taagaaattc actatcttgc tcagctgggg taatggtaat</span>
+    21781 <span class="ff_line" id="gi_NC-011646.1_21781">agtggatcca gcaatatcct tagtgccgtg atctctagac caaatagcac cagcagatac</span>
+    21841 <span class="ff_line" id="gi_NC-011646.1_21841">tataacttct aggccagtgg ctaaagtcac gcccaaacca ctaagaatac catcagctga</span>
+    21901 <span class="ff_line" id="gi_NC-011646.1_21901">caatgatttc agctcttcaa tagatgaatc tagtactttg acaaaatcaa gatcagttgt</span>
+    21961 <span class="ff_line" id="gi_NC-011646.1_21961">caggagatca ccagtagcca aatcagcact gtatgggttt aaaaatttgt tcgtttctgt</span>
+    22021 <span class="ff_line" id="gi_NC-011646.1_22021">agtgaaatga acatccacag atgtcaactt aacaacttgg ttttcggctg tgaattcggg</span>
+    22081 <span class="ff_line" id="gi_NC-011646.1_22081">atgtcttgtc atgtttaaca ctcttttttt tcatgctagc accaacttaa aaaaaagtaa</span>
+    22141 <span class="ff_line" id="gi_NC-011646.1_22141">aaaaaacctt gaccaaggaa aaataacatg tttcagtgga aaatatacta aaaaaaacac</span>
+    22201 <span class="ff_line" id="gi_NC-011646.1_22201">accaaaatgg aatatctagt taaaagaaaa ttactgatca aatatcttat gtcaattcaa</span>
+    22261 <span class="ff_line" id="gi_NC-011646.1_22261">agatttggaa aaaaaatgaa cagattcgtg acaaggatgc acgcaatgta tcagcgagag</span>
+    22321 <span class="ff_line" id="gi_NC-011646.1_22321">agggacaaac tccaattcgc caaaagcagc aaatacacca atcaatacaa caccattgac</span>
+    22381 <span class="ff_line" id="gi_NC-011646.1_22381">ttcaccccaa aaagaataag aattttaacc agcagcccat cttctttctg tgattttctt</span>
+    22441 <span class="ff_line" id="gi_NC-011646.1_22441">tatccatatt atgaaatact gaattcaaca aagaatcctg agctacacca tgacaatgaa</span>
+    22501 <span class="ff_line" id="gi_NC-011646.1_22501">tatcaaccag agacagaggc aagcatgtta gatgatctgc ggagcgactg ctgcctcaaa</span>
+    22561 <span class="ff_line" id="gi_NC-011646.1_22561">ctcccaatgt atgtcaacat aataactgtg aagaactacg atattaagtc atgccgccta</span>
+    22621 <span class="ff_line" id="gi_NC-011646.1_22621">tggatggcgt gcaaactgca gtacagcgat gcttggttta agacattggc tgacactatt</span>
+    22681 <span class="ff_line" id="gi_NC-011646.1_22681">tcggcttttg acgaacacct agttgaacat aaaatgttgt ttagttcgga acagttaatt</span>
+    22741 <span class="ff_line" id="gi_NC-011646.1_22741">agatccagag ccacttcgtt taaggatgtt cagcaaagtt tcatcgataa caatccctat</span>
+    22801 <span class="ff_line" id="gi_NC-011646.1_22801">aagaatttca attggaatga ttctcggggg taatgcatgt agtttcgtct gtaatatcta</span>
+    22861 <span class="ff_line" id="gi_NC-011646.1_22861">gaatgcatgc tgaaaatatt taactggaat accatatact aaacaattag tatgaaggaa</span>
+    22921 <span class="ff_line" id="gi_NC-011646.1_22921">acaattaatt gttaatcaat aatgtcatac agcaccaaaa taccacaacc aaccgcacta</span>
+    22981 <span class="ff_line" id="gi_NC-011646.1_22981">gaccaaaccc taatgacagt cagcagtact ttttacacag ttgctccagc accagcaact</span>
+    23041 <span class="ff_line" id="gi_NC-011646.1_23041">gccaaaatca caggattggc tggtgatgtg ctttacaata acaatggaca agttgattta</span>
+    23101 <span class="ff_line" id="gi_NC-011646.1_23101">gcaccaactg tggctaacga tgatggggtt caaagtcttg ccagtaatgg catcatctct</span>
+    23161 <span class="ff_line" id="gi_NC-011646.1_23161">ggaatagtgc caaccaaaac aatgaccatc acagaaattg aactttcctt aggaaaagcc</span>
+    23221 <span class="ff_line" id="gi_NC-011646.1_23221">cgcgttaatg ggaaaatagt tgactttgct ggcactgcac tatctatccc atcaacaaat</span>
+    23281 <span class="ff_line" id="gi_NC-011646.1_23281">actaatgaat tattatatat tgtattggat gataatgcta cagcctcaat atctacaact</span>
+    23341 <span class="ff_line" id="gi_NC-011646.1_23341">ccccccacag cacaacaaat actaatcaca gcattaattg cggacggctc tagtctcaag</span>
+    23401 <span class="ff_line" id="gi_NC-011646.1_23401">catttgcttt atggcggcca aaatttagat caaggcagag ccaactttga ccttgtcacg</span>
+    23461 <span class="ff_line" id="gi_NC-011646.1_23461">caagaaattg gcttggtttc taatggattt ggcttttctt tcggtgcaga taagtttaat</span>
+    23521 <span class="ff_line" id="gi_NC-011646.1_23521">tcatttggtg gtgtcttaac cggcctagga agatcatttg ttttacctaa aaaagaaggt</span>
+    23581 <span class="ff_line" id="gi_NC-011646.1_23581">gtggcacttg atatctttga tgatagttct tatttgagag agcttagtac gttaacagtt</span>
+    23641 <span class="ff_line" id="gi_NC-011646.1_23641">gacgatttta agttttttaa acctgtaagc ggctcagaac aagccatcag cggctctgct</span>
+    23701 <span class="ff_line" id="gi_NC-011646.1_23701">tatgttatat ggtatgtttt tgccaatgtt agatctggtg atgtgttctc actagtgcta</span>
+    23761 <span class="ff_line" id="gi_NC-011646.1_23761">ccacaaataa catacacaac taaacccacc ttctcagatg ttttgttggg ctttgctaac</span>
+    23821 <span class="ff_line" id="gi_NC-011646.1_23821">agcactttcc ccaaacttat taatggcttt gctccagtag cagcgttaat tgttgctggt</span>
+    23881 <span class="ff_line" id="gi_NC-011646.1_23881">aatattacag cattaactga tattgaaatc catccacttg cacgaaaacg agctggggtg</span>
+    23941 <span class="ff_line" id="gi_NC-011646.1_23941">gccaatagag caacgattct tcttccaagg gcggatgagc taactggtga tccaaacact</span>
+    24001 <span class="ff_line" id="gi_NC-011646.1_24001">gctgtattag gcattagaaa cggacaatat gaatggagac aaagcattaa tcaacttcca</span>
+    24061 <span class="ff_line" id="gi_NC-011646.1_24061">agtgattcag atggagtgat tgcaactaat aatggacttt tgttcactag acatttttct</span>
+    24121 <span class="ff_line" id="gi_NC-011646.1_24121">ggtgcagtag ctagtggtga ttattactat gcagtgagcg gcaaaattcc aataacagac</span>
+    24181 <span class="ff_line" id="gi_NC-011646.1_24181">cctaggaatg gcggtggatt gggaaacatt gttgagacta acatcccatc actagacaaa</span>
+    24241 <span class="ff_line" id="gi_NC-011646.1_24241">acaaaaacta catactatag cttcttaagt ggtttgccca gcagaggatc attagaggtg</span>
+    24301 <span class="ff_line" id="gi_NC-011646.1_24301">actaacagat acgttggttt cgcaacagat tacgcctcac cagtgttcta tttcaagcag</span>
+    24361 <span class="ff_line" id="gi_NC-011646.1_24361">tctttggatc cccacctagg aactaaaaat gcacagtatg tattagaggt ggagttcttt</span>
+    24421 <span class="ff_line" id="gi_NC-011646.1_24421">ttcaaatatc agaacatctc ctctagtcaa ccttacacaa ttactaattt ttttcaaaaa</span>
+    24481 <span class="ff_line" id="gi_NC-011646.1_24481">ataatactaa aagcccagaa gaaaaacagt cagcaaatac cattagatga accattgttc</span>
+    24541 <span class="ff_line" id="gi_NC-011646.1_24541">aatcactttt atggggtcta ttcctatgac aacggcagta ataatgctgt tttcaccagc</span>
+    24601 <span class="ff_line" id="gi_NC-011646.1_24601">gatcttagag gtattcagcc atccactgca tctaaaatag cagcagccag cacattcacc</span>
+    24661 <span class="ff_line" id="gi_NC-011646.1_24661">attgctagga actacagcgt taatgagcta gagcatagct caatcaacat ccaaggaaac</span>
+    24721 <span class="ff_line" id="gi_NC-011646.1_24721">aatgtaagca tggattttct taaagctaat attttaaatg gatattgtat atacaggttt</span>
+    24781 <span class="ff_line" id="gi_NC-011646.1_24781">tacaaaaggt agggttagct tttattaact agtatatatc ttaacagaaa ttctggctga</span>
+    24841 <span class="ff_line" id="gi_NC-011646.1_24841">gcaggtgtta agacaacagg cacaatgaaa tcaatactaa tgtcagcagt tggagtcact</span>
+    24901 <span class="ff_line" id="gi_NC-011646.1_24901">ggcatcatgt tgccatcagt attcagcaca tatgatgaaa tccatactgg tattttggtt</span>
+    24961 <span class="ff_line" id="gi_NC-011646.1_24961">gtggatattg aaattaatga gatgtaatat gcatcattaa cctgcctaat gatggcagat</span>
+    25021 <span class="ff_line" id="gi_NC-011646.1_25021">gaaaaatcac tagctatatc accattagag ctaacaatag caccattaga aacatcaagt</span>
+    25081 <span class="ff_line" id="gi_NC-011646.1_25081">ttaacaaatc caccccgatc agttcccaaa ttaaatctag gaacaccctg attggcaata</span>
+    25141 <span class="ff_line" id="gi_NC-011646.1_25141">ggctcaactg caaagctggt tcctcttttc accaagacat caccttcatt gccgccagta</span>
+    25201 <span class="ff_line" id="gi_NC-011646.1_25201">acattaaaag cattttcttt tctcaagatg aaattggtgc cattagttcc aactacatca</span>
+    25261 <span class="ff_line" id="gi_NC-011646.1_25261">tcgttggttc cagtagatgg atcaatggtc agggtttgaa caccaccgcc agacgatgct</span>
+    25321 <span class="ff_line" id="gi_NC-011646.1_25321">agagatatgt tagaaatggt ggtcgttagg acagttgaga tgttagcatc ggtgacagta</span>
+    25381 <span class="ff_line" id="gi_NC-011646.1_25381">gctggcacca ctattgctcc aagcaaagct gcaaagctgg atgataaaaa atctggaaca</span>
+    25441 <span class="ff_line" id="gi_NC-011646.1_25441">acagtgccag tcaaataaaa caacaaatcg cttctcgcta aagcagccgt tgaataattc</span>
+    25501 <span class="ff_line" id="gi_NC-011646.1_25501">ttctggggtg ccagataata ataactacca cttgctaaaa tgtaaactgc aatgatacca</span>
+    25561 <span class="ff_line" id="gi_NC-011646.1_25561">aaattagcta atgctgaaga cgtcccagct gctggatcat ccagcttgta tgttcttctt</span>
+    25621 <span class="ff_line" id="gi_NC-011646.1_25621">aaatcggaaa acgtagtctg ctccgtacta tcaaaactgt agtaatctgc cgtgatatcc</span>
+    25681 <span class="ff_line" id="gi_NC-011646.1_25681">tctacagcaa tagtacgcag agaacgatta ccagtcccag aaccatcagc gatattgtag</span>
+    25741 <span class="ff_line" id="gi_NC-011646.1_25741">ccaaaaatgc gagcgttagc accagtttga cgcagagaat tattagatat ggaaaataaa</span>
+    25801 <span class="ff_line" id="gi_NC-011646.1_25801">atatcgttgc catcaatacc aatcctacta gaatactgct gaagattttg ctgtggattc</span>
+    25861 <span class="ff_line" id="gi_NC-011646.1_25861">gaatatacag tagatactgg cgataatcca acaatttttc ctccatttgg gtgtagtatt</span>
+    25921 <span class="ff_line" id="gi_NC-011646.1_25921">ctgacgatgt aattgtcttc aatgatccgg tcagcagtag gatcgtctgt ttcttgggca</span>
+    25981 <span class="ff_line" id="gi_NC-011646.1_25981">aaagaaccac taggaagaaa ttttaaatat gtgacatctt ggttactaga tccaacagcg</span>
+    26041 <span class="ff_line" id="gi_NC-011646.1_26041">ttaatagtaa ttgtctgttg cactggacta tcaacaactc tcctaacatt gccgacagct</span>
+    26101 <span class="ff_line" id="gi_NC-011646.1_26101">ccagctggtt gatcaaaaaa cacagcttta aatggaccaa cattaatagt attggttcca</span>
+    26161 <span class="ff_line" id="gi_NC-011646.1_26161">gtgattgata atgtaggagg ctcgataatt ccggcttggt taatgattga agcagtggca</span>
+    26221 <span class="ff_line" id="gi_NC-011646.1_26221">tcatctaata ggaatgcatc cacgccacca aatgtcacag cccctgatgc atcaacagtt</span>
+    26281 <span class="ff_line" id="gi_NC-011646.1_26281">gtgatcccat atgctttgcc aatatcggca ctagatagct ctggagtcat gttattagca</span>
+    26341 <span class="ff_line" id="gi_NC-011646.1_26341">gctttccagt aaaaaaatcc accagcatca acagcactta atggaacttt atttagatca</span>
+    26401 <span class="ff_line" id="gi_NC-011646.1_26401">gcactgtcct caatataggc gaccgaacct aaatcagatt taattttaga aaattcaacc</span>
+    26461 <span class="ff_line" id="gi_NC-011646.1_26461">attttttccc tcctgcttaa ttggaaaaca ttttttcaca tcctgactaa gttgaaaaat</span>
+    26521 <span class="ff_line" id="gi_NC-011646.1_26521">tgcagcatca tggttaagct catcctgcag ctccgcaata tcaaacctca tagctaattc</span>
+    26581 <span class="ff_line" id="gi_NC-011646.1_26581">atctggttca ttaatggcat caataatatc ttgttttaac tgaattatct catacacacc</span>
+    26641 <span class="ff_line" id="gi_NC-011646.1_26641">atcattcatc ctgataactg atccatcgtc aagcaaaaac actagaccat taacattgta</span>
+    26701 <span class="ff_line" id="gi_NC-011646.1_26701">tgccatagct gtcgacaatg ctttagtcat actattctag agtctcttca ataagcacca</span>
+    26761 <span class="ff_line" id="gi_NC-011646.1_26761">aatcaccatc aacatcagtg gttgccgagc tgctgattgc gtaaagctcc tggttctggt</span>
+    26821 <span class="ff_line" id="gi_NC-011646.1_26821">caaaagataa caaaataccc tcttcaagca aaactccact ggtgcgatca gcagtcagat</span>
+    26881 <span class="ff_line" id="gi_NC-011646.1_26881">ctgccaaaga tcctattcta atagcaccaa catcattatt gtcagaaatg aattcaatgc</span>
+    26941 <span class="ff_line" id="gi_NC-011646.1_26941">tacgagtgac caccttatca tcaatgtccg caactttcac cggtgcagct gctggtattg</span>
+    27001 <span class="ff_line" id="gi_NC-011646.1_27001">tgggcagctg gctagttaat acttttctga tcattttttc ctcttcaata tcaaatgtaa</span>
+    27061 <span class="ff_line" id="gi_NC-011646.1_27061">agaccgtacc atttttcgtg acagttaaat taaacttagt cccatcagcc atagctgtgc</span>
+    27121 <span class="ff_line" id="gi_NC-011646.1_27121">catcaatgtt tgaaacaaaa gtggctccag cagggggatt ggtaatgaaa tcaaggggga</span>
+    27181 <span class="ff_line" id="gi_NC-011646.1_27181">agtttttaat ccctgaacca gaatcaccgg gctcaactgt tagtgttttg ttgggaacat</span>
+    27241 <span class="ff_line" id="gi_NC-011646.1_27241">ctgccttaaa aacaactgct tttttgtcta acaggccggg tgaagaagta tccacccccc</span>
+    27301 <span class="ff_line" id="gi_NC-011646.1_27301">agtcaattgt ccagtcatta ggaaatgatt tactgtagac aactggtttt tgggtatatt</span>
+    27361 <span class="ff_line" id="gi_NC-011646.1_27361">ggctggagtc cgtaacaaga ccaaaaccat tattagaaac agctggtggc agcactcctg</span>
+    27421 <span class="ff_line" id="gi_NC-011646.1_27421">aagctgcatt aggaacatta aaaacaaaac gaaggaactt ttcaaaatca gtttgcacaa</span>
+    27481 <span class="ff_line" id="gi_NC-011646.1_27481">ctctcttgtc aatcatgacc agtcgagaca tcctaatgcc atcctctaaa gtgagactga</span>
+    27541 <span class="ff_line" id="gi_NC-011646.1_27541">aatcctctga tgtcactaga ttggtcaagc tttgatctcc tttgtcagtt atggtcaaag</span>
+    27601 <span class="ff_line" id="gi_NC-011646.1_27601">ccccaccaac ataatcacca gtgagattgg acacagtgcc aatcccatca gatgctagta</span>
+    27661 <span class="ff_line" id="gi_NC-011646.1_27661">agtaatatac ccatgtgttg gcggtatacc ctatcgacca agtatcgctg ccaacagtat</span>
+    27721 <span class="ff_line" id="gi_NC-011646.1_27721">aaacaatatc tgtcccaact tttcggatag aaaattggct attagcaact atagtcgcgt</span>
+    27781 <span class="ff_line" id="gi_NC-011646.1_27781">caccagtgct aatattagga tcaatgaaca aacacagcag agcagaaaag tcattttcaa</span>
+    27841 <span class="ff_line" id="gi_NC-011646.1_27841">aaaaatcctt accgttaata tgagatgcaa tagtatagtt gccatcagtt gtgtactgag</span>
+    27901 <span class="ff_line" id="gi_NC-011646.1_27901">atctgtttcc cacggtctca ttagcaacgg ttggcacttt agttgagtca ggtaaaacag</span>
+    27961 <span class="ff_line" id="gi_NC-011646.1_27961">taaaatcatc caccgtagat attagataac catcctgact aacaataaaa tcagcaattg</span>
+    28021 <span class="ff_line" id="gi_NC-011646.1_28021">tctcactctt gccccatggg taggcctcgc cagttggtgc taatgcattc aaccttgtgt</span>
+    28081 <span class="ff_line" id="gi_NC-011646.1_28081">tgaacaactc attaacctgc ttctgatcta atccaccctc agcagtagaa tcaacagcaa</span>
+    28141 <span class="ff_line" id="gi_NC-011646.1_28141">taacatcacg gctagagaca gccccaaaac tagaagcaag cagatacttt ccagaattat</span>
+    28201 <span class="ff_line" id="gi_NC-011646.1_28201">cattaaaaaa cttgactact gtgttggtgg tagcaatatc ttggtttcta agaggtatga</span>
+    28261 <span class="ff_line" id="gi_NC-011646.1_28261">gggtctgttt ttcagcactt ccagctccat ctcctgtgaa aaattctcca atattaagtt</span>
+    28321 <span class="ff_line" id="gi_NC-011646.1_28321">tagaaaaatc tgttcccgag atgtattttt gccgaactgg aggagtgcca gcaccagcag</span>
+    28381 <span class="ff_line" id="gi_NC-011646.1_28381">taataaacac atcgccagca gagccaactt cataatctgg taaagcatta gcagccgctt</span>
+    28441 <span class="ff_line" id="gi_NC-011646.1_28441">cggctctgtc cgcctcagtt ttggccactc cagctgatgt ttgtgcatct gttgcagcat</span>
+    28501 <span class="ff_line" id="gi_NC-011646.1_28501">cttttgcctc tgttactttt gtatcaatga caacagtagc atcagaaact attttattca</span>
+    28561 <span class="ff_line" id="gi_NC-011646.1_28561">atgaagccgt accatctgta ataattttac taagtgatgt ggttccatca gagacaagct</span>
+    28621 <span class="ff_line" id="gi_NC-011646.1_28621">gcagaatatc tgcctttcca tcagcaacaa ctttggatat atcaatcaat gattgtgcaa</span>
+    28681 <span class="ff_line" id="gi_NC-011646.1_28681">cttgggcagc gttagtggct gtttgagcag cagcattggc cgcttgttga gcagacgatg</span>
+    28741 <span class="ff_line" id="gi_NC-011646.1_28741">cagcattagt tgcagattgc tctgcagcta ctttagcagc ttctgcagcc actttagcag</span>
+    28801 <span class="ff_line" id="gi_NC-011646.1_28801">catcaatatc atcttttaaa actttcagct cagcaatagt aaaatcacca gcttttaacg</span>
+    28861 <span class="ff_line" id="gi_NC-011646.1_28861">taaattcagt tggtttgcta gggttttgct caaaaaatac tggggcatct ttgacaatat</span>
+    28921 <span class="ff_line" id="gi_NC-011646.1_28921">tgtgatcaac attgatctgc agatcagtaa ttgcaggcgg gtaaggaaaa ccaagcttag</span>
+    28981 <span class="ff_line" id="gi_NC-011646.1_28981">ttgacactag gtcctctaac tgcttaatag ccattgctag tctatccaca gcactctgta</span>
+    29041 <span class="ff_line" id="gi_NC-011646.1_29041">catttgttgg tgctactgcc gcgttagttg gaaaatctat ctcttgggta tacggtagtt</span>
+    29101 <span class="ff_line" id="gi_NC-011646.1_29101">ctgactcgat gattacatac tgtgttgctg ggattgtctt attaatgaat tcaatctgtc</span>
+    29161 <span class="ff_line" id="gi_NC-011646.1_29161">cagtctcagc ctgtaggttt ttaactgtgt agtcagtgtt ctgaatttga ataattggat</span>
+    29221 <span class="ff_line" id="gi_NC-011646.1_29221">cacctgtgag gccatctctg aggaaaaccc gtaccgaata aatatcagaa gacccacctg</span>
+    29281 <span class="ff_line" id="gi_NC-011646.1_29281">cagatggttt ctgaacaaaa gccttaaagg taaaggtata gatgctattg ccatctcctt</span>
+    29341 <span class="ff_line" id="gi_NC-011646.1_29341">taatctcatt tctaggtggt gttgtcgcaa cgatagtcat tttttaaccc tcttccttgt</span>
+    29401 <span class="ff_line" id="gi_NC-011646.1_29401">tgaaaccaat ggcgattgca ctaatgtacg gcgggtaagg gctccttgca ctgattcgaa</span>
+    29461 <span class="ff_line" id="gi_NC-011646.1_29461">caagcggacc actagttcga ctggttggca cagcagcatc aaaaatttta ataaaaatct</span>
+    29521 <span class="ff_line" id="gi_NC-011646.1_29521">ctccatcatc atacctaaga ttaagatttg caggcttggt ctcaattcct tcactagcga</span>
+    29581 <span class="ff_line" id="gi_NC-011646.1_29581">caacattgcc atcactaact gaaagatcag gtagttggta gccaatgtgc tgaattcgaa</span>
+    29641 <span class="ff_line" id="gi_NC-011646.1_29641">cagaaatgtt atatgaaaca tctaaactgt ttagttctgt acatggcgga attgttacta</span>
+    29701 <span class="ff_line" id="gi_NC-011646.1_29701">tctccatcct ataggaaaaa ccgcaaattg caacatctgc taaggtccct agtgaaaatt</span>
+    29761 <span class="ff_line" id="gi_NC-011646.1_29761">caccacgaac accactagca ttcagtgcat atgtctgttt attaactact gcaatgggat</span>
+    29821 <span class="ff_line" id="gi_NC-011646.1_29821">tcttgagtat ctgcagatga ttcaagcctt gaactgtgct agatgctaag gcataatcgt</span>
+    29881 <span class="ff_line" id="gi_NC-011646.1_29881">cagcagctaa aacaaagtta ttagcagtcc tactgcctgt taacgctaat ctagttgcca</span>
+    29941 <span class="ff_line" id="gi_NC-011646.1_29941">atgccctgcg agctgactcg acattttgaa tcattaagtt acagaaatca tttttaatta</span>
+    30001 <span class="ff_line" id="gi_NC-011646.1_30001">cagcaccaac catatcagca cgaaagaaat cagtatctgc caatatttca ccactattgt</span>
+    30061 <span class="ff_line" id="gi_NC-011646.1_30061">tgttaaaatt gcagtgcagc gttgttttgt catggaaagt gttaccaata ttgtaaacca</span>
+    30121 <span class="ff_line" id="gi_NC-011646.1_30121">tataaaagtc aaggaaaggc tgctgattgt caagctcaaa ttgaggctca ttcattgctt</span>
+    30181 <span class="ff_line" id="gi_NC-011646.1_30181">taatactggt aaaaacgcta tagccattga tattaagcga aaaaatcacc tcatcagcag</span>
+    30241 <span class="ff_line" id="gi_NC-011646.1_30241">caaattcatt cctgtaaata ataaaatcat caacactata attaactagc cactgcgaat</span>
+    30301 <span class="ff_line" id="gi_NC-011646.1_30301">aactagagag aagaacattt tcccgctcca tgcccagatg cacagtgaaa agtttgcctg</span>
+    30361 <span class="ff_line" id="gi_NC-011646.1_30361">attttgttaa aacaagtgcc acaggattag catgaaaata gactaaatcc atcttggtaa</span>
+    30421 <span class="ff_line" id="gi_NC-011646.1_30421">taacttcccc agataaaatg ccagtcttag tattcaaggt cttcaccgac aaatcagagc</span>
+    30481 <span class="ff_line" id="gi_NC-011646.1_30481">tatagaattc ataccaggtg taaagaatgt tatccgcatc cgagccagca aaaaataaat</span>
+    30541 <span class="ff_line" id="gi_NC-011646.1_30541">aaccattaaa acgaaacggc ctcactggta tcgatgttcg ctcgtcgtaa ataataatgt</span>
+    30601 <span class="ff_line" id="gi_NC-011646.1_30601">tagtgatagt ggtcaaggaa gcactgttgt tgaactcagc gagaaaaaca ccagaatcag</span>
+    30661 <span class="ff_line" id="gi_NC-011646.1_30661">tagcaaaaaa cagcccttta gaagaacttt tcatccagaa aaatctagag ccatagccat</span>
+    30721 <span class="ff_line" id="gi_NC-011646.1_30721">ctgcaagtat ctgccttggt gtgctattgt caatagtaaa tgtttcttgc cgagaaaatc</span>
+    30781 <span class="ff_line" id="gi_NC-011646.1_30781">ttagtaccag tttattgttt tctgtcgccc ctaaaacaag gaagtttcga taggttgtcg</span>
+    30841 <span class="ff_line" id="gi_NC-011646.1_30841">ctacttcagc ctgatatact atggccagtt cagcaaaaac gccagcatcg ctaatgctgt</span>
+    30901 <span class="ff_line" id="gi_NC-011646.1_30901">aggccttgcc agcactgcct gtgaagaagt agttcagttt ctctgtcaac acatagtcca</span>
+    30961 <span class="ff_line" id="gi_NC-011646.1_30961">caggtttttg cacaaaagtg gggataactg tgattgtggc taatttaaaa gtccaaaatt</span>
+    31021 <span class="ff_line" id="gi_NC-011646.1_31021">tgttaatata atctggctca gttccaatca aagcattgat gttgtaggtg tttgctacag</span>
+    31081 <span class="ff_line" id="gi_NC-011646.1_31081">ctgttggttg atatgtgaat aactctaatt gctgcttacc ataaaatgcc acaattattc</span>
+    31141 <span class="ff_line" id="gi_NC-011646.1_31141">ctgtggaatc agaaacagct ggaagtgctt tatctagtgt cactgatagg tctttgttca</span>
+    31201 <span class="ff_line" id="gi_NC-011646.1_31201">cagaaacaat gctaaattca tctgctcctg tagcaacagt gctaccgcta acaatctgaa</span>
+    31261 <span class="ff_line" id="gi_NC-011646.1_31261">tgccttgcgt ctggttaata gcgattaatg ttttttctgc ttgtttgggt gtggcaatag</span>
+    31321 <span class="ff_line" id="gi_NC-011646.1_31321">gaatgaaaaa tcccgcttca tttcttgtgg ctctgctaat gaatttcatt ggcggtctca</span>
+    31381 <span class="ff_line" id="gi_NC-011646.1_31381">tggtgataga ggtgccttga tgcagtacat ccagcgactt tagcattccg agaaaaccat</span>
+    31441 <span class="ff_line" id="gi_NC-011646.1_31441">ttgttcccac ccgggaaccc atcacacgag cagaaatagt tgactgtcgg agatctccta</span>
+    31501 <span class="ff_line" id="gi_NC-011646.1_31501">gctggttaac atattctgtc acggcaataa ccacgattat ttttatgagg gtagggccgc</span>
+    31561 <span class="ff_line" id="gi_NC-011646.1_31561">cagtagcaat catcaatatc acatggatca tctgcatcaa taaccctagc ttcggctaaa</span>
+    31621 <span class="ff_line" id="gi_NC-011646.1_31621">gcctctttat atttggtgtc cataaatctt gaggtagtga agcttccttg agatgatgct</span>
+    31681 <span class="ff_line" id="gi_NC-011646.1_31681">agcctactag ccaagccaaa aattaacaca ttagtaaagt atgatggaaa tagtttagtt</span>
+    31741 <span class="ff_line" id="gi_NC-011646.1_31741">tcctcttctg atcccagtaa aaatctacca ccgcaatagg gaatgctcct cattttcaac</span>
+    31801 <span class="ff_line" id="gi_NC-011646.1_31801">ctctggtagt cctcatcttt aacatcataa tatgttatcg atcctgcctg acggtatttg</span>
+    31861 <span class="ff_line" id="gi_NC-011646.1_31861">tcaaactctc gtgcattgct ataaaacagc aaataaggca caaaagacca ttgaaatgaa</span>
+    31921 <span class="ff_line" id="gi_NC-011646.1_31921">tcaatggcaa tatctcttac tatagggaag aacatttcgc aagtagttgc ctcaggacta</span>
+    31981 <span class="ff_line" id="gi_NC-011646.1_31981">gaatcattag gcctagtgcg aatcacacct gattgcccaa tttgcagctc tgcatatttg</span>
+    32041 <span class="ff_line" id="gi_NC-011646.1_32041">cagattgctg ctttacctag cccagagcct acagataaga gatgaaccac tagctggctt</span>
+    32101 <span class="ff_line" id="gi_NC-011646.1_32101">tggtataagt agtaccaaaa gaggctttgg gcgtaccggg aattctgtag tagtgaccag</span>
+    32161 <span class="ff_line" id="gi_NC-011646.1_32161">tcatagactc aaaaaagaac tttagcacca cttgattagt cacagcagca tctgctctta</span>
+    32221 <span class="ff_line" id="gi_NC-011646.1_32221">acaccaatgt atagccatca gaatcttgtt tttcagcata ttgatcaagg acataaccaa</span>
+    32281 <span class="ff_line" id="gi_NC-011646.1_32281">gtgcaacatt ccagttagcc ccaaattcta aagtctccac tttgtgtgct gctgcgggaa</span>
+    32341 <span class="ff_line" id="gi_NC-011646.1_32341">aggcaccgtc agctgctaaa atattgtcta gtatttttgc tgtacaggaa tctggattac</span>
+    32401 <span class="ff_line" id="gi_NC-011646.1_32401">caatgtgcag ctccaaagta aactttgttg ctcctgctac tacggcacta gacatcattt</span>
+    32461 <span class="ff_line" id="gi_NC-011646.1_32461">gcaatcttat tagttttgta ttgtttgtta gcgatgaaaa caatggaatt ggtgcagcat</span>
+    32521 <span class="ff_line" id="gi_NC-011646.1_32521">taatatctgc accagcagca atggtaacag ctgcactact gactgatgat ctaacatttt</span>
+    32581 <span class="ff_line" id="gi_NC-011646.1_32581">caatttgatt ttcattgctt acggtgaaat ctgtcattat ctactccttg ctggtttagg</span>
+    32641 <span class="ff_line" id="gi_NC-011646.1_32641">tgaaggtggt gctggtggag gtggagctgg tgaagatgag gctggtgagg caaatgaact</span>
+    32701 <span class="ff_line" id="gi_NC-011646.1_32701">gttgaacaat atcttcacta ccactggatt tggaattctc aatgcactca agtaggtact</span>
+    32761 <span class="ff_line" id="gi_NC-011646.1_32761">tgctgcaagg aaaataccat tctttctatc atatgacaat ggcccagcac gaatctcaac</span>
+    32821 <span class="ff_line" id="gi_NC-011646.1_32821">catggatgga tttagtattg gactggatcc gggaggggca aaaaatggtt tgtgcgatct</span>
+    32881 <span class="ff_line" id="gi_NC-011646.1_32881">gtaaccaaaa tcaatacttt cttctggagc aaaggcgtaa ccaatagtat agttggaccc</span>
+    32941 <span class="ff_line" id="gi_NC-011646.1_32941">attgtaatca cgggcacgga agtatgatgg ctgtccaaat ggtgtgtaaa acatcacatc</span>
+    33001 <span class="ff_line" id="gi_NC-011646.1_33001">attaaactta aatccaagtc caccatatgg cacaggagag ctgacttcat gtaactgtac</span>
+    33061 <span class="ff_line" id="gi_NC-011646.1_33061">tgccataccg ggaaatgttt tggcagagtc ccttaactga caaaatgctt ctaatggaag</span>
+    33121 <span class="ff_line" id="gi_NC-011646.1_33121">cagaatcatt tggccggatc ctttatagtc cattttattg agctgaacag taatctcact</span>
+    33181 <span class="ff_line" id="gi_NC-011646.1_33181">aagtgtggca aaagtaaacc cagcagaggc atcaaccacg gggatgtcat catctgtggc</span>
+    33241 <span class="ff_line" id="gi_NC-011646.1_33241">tgttcgtgtt tcaaatgagc cactggcggc tgagacctcg gaaaaagaag cttccatagc</span>
+    33301 <span class="ff_line" id="gi_NC-011646.1_33301">ctcatagatg atacgatcaa cattcctata aaacgatgct ttgattctag atgttagcct</span>
+    33361 <span class="ff_line" id="gi_NC-011646.1_33361">gttcatggtt gttattagat tgttgagatt taacagatca ctattaatta aatgtgattc</span>
+    33421 <span class="ff_line" id="gi_NC-011646.1_33421">ttgcatctct acagagagat ctagttctct aagtagtgct tgtcttccta cagcagcaac</span>
+    33481 <span class="ff_line" id="gi_NC-011646.1_33481">aggttgaggc ctgtatgatg attcctttac actaacatct ctgaattcga ctgcaccaat</span>
+    33541 <span class="ff_line" id="gi_NC-011646.1_33541">actagctgac ttcagtgtat tgtcagtaac cacattaact gtaactgcct taagcaatgg</span>
+    33601 <span class="ff_line" id="gi_NC-011646.1_33601">agaattttcc attaccctat taacaagaaa ataatcacct gacctgaatg tgtcgcatgc</span>
+    33661 <span class="ff_line" id="gi_NC-011646.1_33661">caccttattg caagtatcga tcggatgagt atccggtata tagacgctac caaccattat</span>
+    33721 <span class="ff_line" id="gi_NC-011646.1_33721">tgttgtccct cccttgaata ttgttcaaaa aaatatttaa cgcgttctgc tgttgacatt</span>
+    33781 <span class="ff_line" id="gi_NC-011646.1_33781">ttgcttaaat caatcttttc tttggcctct gcagcagaga cttgtgcaga accgacatcg</span>
+    33841 <span class="ff_line" id="gi_NC-011646.1_33841">taagcagatt gctttttgtt aatttctgct aatttttcat caatagcaac aaaatgctgc</span>
+    33901 <span class="ff_line" id="gi_NC-011646.1_33901">tctagttttg ccaagatatc tgtattttgg gctgctggag cagtggtttc ttgctttgct</span>
+    33961 <span class="ff_line" id="gi_NC-011646.1_33961">ttagcatcat tgtcttcaag cttttccttg attgcattga ttttagcact gatttctttg</span>
+    34021 <span class="ff_line" id="gi_NC-011646.1_34021">taagctgaat cttcgttttt ttcggtgttt ccttcaccta attcactagc ggtcatggtg</span>
+    34081 <span class="ff_line" id="gi_NC-011646.1_34081">ttttagtact attaactttt aacatattgg catattttaa taatatgtca actgtaggtt</span>
+    34141 <span class="ff_line" id="gi_NC-011646.1_34141">aaaaaattaa aaatatcatc aaccatatgg gcgacgcttt ccgttcctgt acgaaaaaat</span>
+    34201 <span class="ff_line" id="gi_NC-011646.1_34201">cgggaaaatc tgcgacgatt tcctagaaat ctgccatgca atcctaactc attacaaaaa</span>
+    34261 <span class="ff_line" id="gi_NC-011646.1_34261">atatgtttgt agccagctat aatatttttt ttatgactaa atgggatctc ctcatagcga</span>
+    34321 <span class="ff_line" id="gi_NC-011646.1_34321">tcgaggtatt tctcattgct ctcttccgat aaaaagacgt tctcatcatc tggctgaaga</span>
+    34381 <span class="ff_line" id="gi_NC-011646.1_34381">agaattgtca catgcggata acatggaaca tatttttggt gcaaattaat aatgtcatta</span>
+    34441 <span class="ff_line" id="gi_NC-011646.1_34441">actaaatcat cagtaaataa tgaactatca atactgttca tatgctcaga tgaagaaaaa</span>
+    34501 <span class="ff_line" id="gi_NC-011646.1_34501">acatgttcat cgtaatgctc atttaacaga tgagacaatg cctgtcctag aagatatcta</span>
+    34561 <span class="ff_line" id="gi_NC-011646.1_34561">gcattatcac aaaaaacaaa accagttaaa atgttgttaa gctcatgctt agcagcaaga</span>
+    34621 <span class="ff_line" id="gi_NC-011646.1_34621">tcgctaatgc catcacaaca gcaaatgcct tgatacacaa tagttgagtc aatgaaacga</span>
+    34681 <span class="ff_line" id="gi_NC-011646.1_34681">tcacatatta cgatcgatcc cgagctaata gctggattaa tcagccgagt agcgtgctca</span>
+    34741 <span class="ff_line" id="gi_NC-011646.1_34741">atgcgagcag cggtctgaat taatatttca actttactgg atagttggta ttttttcaga</span>
+    34801 <span class="ff_line" id="gi_NC-011646.1_34801">aagtttgata atccattgaa attaaatggc tcatgagtta acacaatgct gttgtccgag</span>
+    34861 <span class="ff_line" id="gi_NC-011646.1_34861">tattgagaaa actttctttg cagaccttga gctactgtgc ttttgccaat cttgtcaatt</span>
+    34921 <span class="ff_line" id="gi_NC-011646.1_34921">ccttctattg ttatgaacat ggcagtaaaa aa</span>
+//</pre>
+<a name="slash_NC-011646.1"></a></div>

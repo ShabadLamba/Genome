@@ -1,0 +1,16 @@
+Flask==0.10.1
+Flask-SQLAlchemy==1.0
+Jinja2==2.7.3
+MarkupSafe==0.23
+SQLAlchemy==0.9.6
+Werkzeug==0.9.6
+flask-heroku==0.1.9
+gunicorn==19.0.0
+itsdangerous==0.24
+psycopg2==2.5.3
+python-firebase==1.2
+urllib3==1.21.1
+selenium==3.4.3
+beautifulsoup4==4.4.1
+simplejson==3.8.2
+requests==2.17.3

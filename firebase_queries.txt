@@ -1,0 +1,3 @@
+https://genome-3db7f.firebaseio.com/dna_features.json?orderBy=%22$key%22&startAt=%22Ach%22&print=pretty%27
+
+https://genome-3db7f.firebaseio.com/dna_features.json?shallow=true
